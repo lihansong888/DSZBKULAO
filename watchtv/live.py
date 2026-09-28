@@ -5,7 +5,7 @@ import os
 
 # ========== 填写源的地址 ==========
 URL_LIST = [
-    "https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt"
+    "https://jsnzkpg.de5.net/all.m3u",
 ]
 
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
