@@ -1,76 +1,92 @@
 #EXTM3U
+#EXTINF:-1 group-title="HS体育赛事实况",瓜德罗普 vs 巴巴多斯 0-0 [解说]
+https://hello.ooo0ooo.top/live/4642637.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",瓜德罗普 vs 巴巴多斯 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642637.m3u8?txSecret=a544b64bc206e9f73aa2a335c9192351&txTime=6ABC1320
 #EXTINF:-1 group-title="HS体育赛事实况",比利时 vs 法国 0-0 [解说]
 https://hello.ooo0ooo.top/live/4517960.m3u8
 #EXTINF:-1 group-title="HS体育赛事实况",比利时 vs 法国 0-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4517960.m3u8?txSecret=a4c9444b0e8459ee53d51e44c5dc7b0a&txTime=6ABC0A38
-#EXTINF:-1 group-title="HS体育赛事实况",土耳其 vs 意大利 0-1 [解说]
+https://pul-tenm.gkykp.com/live/hd-en-1-4517960.m3u8?txSecret=387741d9e7118e1167e6b5b0758c2274&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",土耳其 vs 意大利 0-3 [解说]
 https://hello.ooo0ooo.top/live/4517961.m3u8
-#EXTINF:-1 group-title="HS体育赛事实况",土耳其 vs 意大利 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4517961.m3u8?txSecret=4efd926cf1c8cf93913fb67a31efe679&txTime=6ABC0A38
+#EXTINF:-1 group-title="HS体育赛事实况",土耳其 vs 意大利 0-3 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4517961.m3u8?txSecret=cacfe888d15b92651dc72fd17aab3f09&txTime=6ABC1320
 #EXTINF:-1 group-title="HS体育赛事实况",北爱尔兰 vs 匈牙利 0-0 [解说]
 https://hello.ooo0ooo.top/live/4517963.m3u8
 #EXTINF:-1 group-title="HS体育赛事实况",北爱尔兰 vs 匈牙利 0-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4517963.m3u8?txSecret=832d3feded3abfb7417f78e7afb654bb&txTime=6ABC0A38
-#EXTINF:-1 group-title="HS体育赛事实况",罗马尼亚 vs 波黑 0-1 [解说]
+https://pul-tenm.gkykp.com/live/hd-en-1-4517963.m3u8?txSecret=46239d48e1b026ed60fd70ee68079447&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",罗马尼亚 vs 波黑 1-3 [解说]
 https://hello.ooo0ooo.top/live/4517964.m3u8
-#EXTINF:-1 group-title="HS体育赛事实况",罗马尼亚 vs 波黑 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4517964.m3u8?txSecret=e2f6300b23a34a0fff6db320e97b98d3&txTime=6ABC0A38
-#EXTINF:-1 group-title="HS体育赛事实况",瑞典 vs 波兰 1-0 [解说]
+#EXTINF:-1 group-title="HS体育赛事实况",罗马尼亚 vs 波黑 1-3 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4517964.m3u8?txSecret=3afae9557e53375d7728c4d4b30b2bfd&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",瑞典 vs 波兰 1-1 [解说]
 https://hello.ooo0ooo.top/live/4517965.m3u8
-#EXTINF:-1 group-title="HS体育赛事实况",瑞典 vs 波兰 1-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4517965.m3u8?txSecret=28bbfe393fe0d945e8a0dc24744e4d5e&txTime=6ABC0A38
-#EXTINF:-1 group-title="HS体育赛事实况",莱加内斯 vs 卡斯特利翁 0-1 [解说]
+#EXTINF:-1 group-title="HS体育赛事实况",瑞典 vs 波兰 1-1 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4517965.m3u8?txSecret=dffa447b721d32d0fe9a33b53882a301&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",莱加内斯 vs 卡斯特利翁 0-2 [解说]
 https://hello.ooo0ooo.top/live/4567285.m3u8
-#EXTINF:-1 group-title="HS体育赛事实况",莱加内斯 vs 卡斯特利翁 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4567285.m3u8?txSecret=fc34129813fbd29892672d6431d13206&txTime=6ABC0A38
-#EXTINF:-1 group-title="HS体育赛事实况",科威特SC vs 贝鲁特体育 35-36 [解说]
+#EXTINF:-1 group-title="HS体育赛事实况",莱加内斯 vs 卡斯特利翁 0-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4567285.m3u8?txSecret=47b7d7dc8f742b01baf2a34a510e13fa&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",科威特SC vs 贝鲁特体育 64-66 [解说]
 https://hello.ooo0ooo.top/live/3943534.m3u8
-#EXTINF:-1 group-title="HS体育赛事实况",科威特SC vs 贝鲁特体育 35-36 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3943534.m3u8?txSecret=d7ebaff6b5c29ad6284692b03618dabe&txTime=6ABC0A38
+#EXTINF:-1 group-title="HS体育赛事实况",科威特SC vs 贝鲁特体育 64-66 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3943534.m3u8?txSecret=fd3495ab1024bdabb615fd7b6316a796&txTime=6ABC1320
+#EXTINF:-1 group-title="HS体育赛事实况",突尼斯 vs 博茨瓦纳 0-0 [解说]
+https://hello.ooo0ooo.top/live/4642793.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",[回放] 莱纳比尼马卡比 vs 拉那那工人 1-2 [以甲] 2026-09-29 00:45
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/34c247805001834822121747686/playlist_eof.m3u8?t=6abb024a&us=407a4c9eb1&sign=7e5fb203437336824413c9fdfb6bdf87
+#EXTINF:-1 group-title="HS体育赛事实况",[回放] 丹麦U21 vs 白俄罗斯U21 2-0 [欧青U21外] 2026-09-29 00:30
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5a00d11f5001834822315287339/playlist_eof.m3u8?t=6abb0046&us=08c2f3f317&sign=d201bf159572e153459a5ad137076d1a
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 法萨巴工人 vs 贝尼叶胡达 1-2 [以甲] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/acd2b4e95001834822286469646/playlist_eof.m3u8?t=6abaf904&us=7a6db8e96a&sign=add5b95f1c8e457228fc97573dc0e162
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/acd2b4e95001834822286469646/playlist_eof.m3u8?t=6abb07da&us=0d1dbe5078&sign=20e3a8ac611362ff9f761042d90cc225
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 凯尔耶特 vs 卡法尔卡瑟姆 0-1 [以甲] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/39c02aee5001834822301270722/playlist_eof.m3u8?t=6abaf69a&us=61dd8a8adc&sign=0ed1c33bf1a17c20ae1d7063bad48783
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/39c02aee5001834822301270722/playlist_eof.m3u8?t=6abb05d6&us=d8fa8ed9c6&sign=7eef7b754503802d2ce99c8eb38585b9
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 夏雷姆 vs 卡比利奥马卡比 3-1 [以甲] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7e3e68185001834822312719803/playlist_eof.m3u8?t=6abaf69b&us=b66e83eded&sign=0127eba399043d2b87c18959581ebd25
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7e3e68185001834822312719803/playlist_eof.m3u8?t=6abb04bb&us=067e618c5d&sign=9a093041ae2de4ecb0c640629554600b
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 拉脱维亚 vs 塞浦路斯 0-0 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4534c9d95001834822301742846/playlist_eof.m3u8?t=6abaf69b&us=b66e83eded&sign=a13a70d836e0213eee44d6ab8d7f97a3
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4534c9d95001834822301742846/playlist_eof.m3u8?t=6abb055e&us=1ced133495&sign=28c01671e91de877ff978507add0d88a
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 拉脱维亚 vs 塞浦路斯 0-0 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1a3cee545001834822250470525/playlist_eof.m3u8?t=6abaf69b&us=b66e83eded&sign=c236ea95794b7fd2710a1e9cf46f9aef
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1a3cee545001834822250470525/playlist_eof.m3u8?t=6abb055e&us=1ced133495&sign=b86d4eacedeff1098b6924f7e1e2b440
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 津巴布韦 vs 刚果(金) 1-2 [非洲杯] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7e3d36535001834822312717242/playlist_eof.m3u8?t=6abaf905&us=d2d477e656&sign=cfecffe3eddfd97b142c3a2ecfa0859c
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7e3d36535001834822312717242/playlist_eof.m3u8?t=6abb083f&us=95138a3e12&sign=ccbd46f1c764eab953bd69eefd8b67a1
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 津巴布韦 vs 刚果(金) 1-2 [非洲杯] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1246deed5001834822124331081/playlist_eof.m3u8?t=6abaf905&us=d2d477e656&sign=81c072e38ee03cc47f4b7eaa862885a4
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1246deed5001834822124331081/playlist_eof.m3u8?t=6abb083f&us=95138a3e12&sign=853daacd7368b7877d741858411d05d4
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 中非 vs 布基纳法索 0-1 [非洲杯] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/397e0eb65001834822121956116/playlist_eof.m3u8?t=6abaf69b&us=b66e83eded&sign=2e8d33661eedf250a4e7b4fb20716ea9
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c2189b005001834822313346589/playlist_eof.m3u8?t=6abb0517&us=65f25c9e6f&sign=72c966832554d868729fac3d02b85054
+#EXTINF:-1 group-title="HS体育赛事实况",[回放] 中非 vs 布基纳法索 0-1 [非洲杯] 2026-09-29 00:00
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/397e0eb65001834822121956116/playlist_eof.m3u8?t=6abb0517&us=65f25c9e6f&sign=72d95d644ace4e1ddf7d233e32d8f720
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 赤道几内亚 vs 塞拉利昂 1-0 [非洲杯] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6e5bf75b5001834822251792731/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=8eddf8c9bca7c12984dc736a1f8b00ae
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6669b13c5001834822285706433/playlist_eof.m3u8?t=6abb0549&us=4fff8f75f9&sign=c351661304b5ac86f4da33770a5ee900
+#EXTINF:-1 group-title="HS体育赛事实况",[回放] 赤道几内亚 vs 塞拉利昂 1-0 [非洲杯] 2026-09-29 00:00
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6e5bf75b5001834822251792731/playlist_eof.m3u8?t=6abb0549&us=4fff8f75f9&sign=c1f8c92f7b50509c320bf4c59c3041c4
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 亚美尼亚 vs 黑山 2-3 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/293dabf15001834822121269033/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=7d1ac31b2e92ca5b9da7a8dcaa24e223
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/293dabf15001834822121269033/playlist_eof.m3u8?t=6abb058f&us=360435da18&sign=326e78b8faf935afe9c1a265901449bc
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 亚美尼亚 vs 黑山 2-3 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5a25eab45001834822118364007/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=2ea213fcde9a86ba20be8896a10e0c2f
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5a25eab45001834822118364007/playlist_eof.m3u8?t=6abb058f&us=360435da18&sign=86b523f5e1610897c28ca94771a33230
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 格鲁吉亚 vs 乌克兰 0-0 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a45c436f5001834822119200255/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=0550a5bcdafd82f855cbd946042e95a6
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a45c436f5001834822119200255/playlist_eof.m3u8?t=6abb04e6&us=70f55f22ef&sign=9b04de6a3d7ee043d8c405a3671b9afc
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 格鲁吉亚 vs 乌克兰 0-0 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/80c793d85001834822312845335/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=b7d7fd163211b49acace47c0b517b667
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/80c793d85001834822312845335/playlist_eof.m3u8?t=6abb04e6&us=70f55f22ef&sign=8e0eab2570103dd04422a310ee2690c9
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 格鲁吉亚 vs 乌克兰 0-0 [欧国联] 2026-09-29 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/832d27755001834822312952144/playlist_eof.m3u8?t=6abaf69c&us=3bcc0d14e7&sign=b9080ea9ba8ef63d81a04f09f975578e
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/832d27755001834822312952144/playlist_eof.m3u8?t=6abb04e6&us=70f55f22ef&sign=28450ad365c0ceb5c3459133e4a48318
+#EXTINF:-1 group-title="HS体育赛事实况",[回放] 科尔菲兹 vs 埃森勒 88-79 [土篮超] 2026-09-29 00:00
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fd51ad645001834822260096959/playlist_eof.m3u8?t=6abb004b&us=ba4a28c33a&sign=e9ff09f919dde5f419db74f561d5b9f6
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 雷克索斯U23 vs 维泽拉U23 2-2 [葡U23] 2026-09-28 23:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c5bf38815001834822283448428/playlist_eof.m3u8?t=6abaf8d7&us=05f3afd9ca&sign=a1370d93bd60f4ad47662ca505cb3d68
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c5bf38815001834822283448428/playlist_eof.m3u8?t=6abb07dd&us=df38c5f7ca&sign=afe1df66823b0eb33d6cd6668fd8e7f9
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 阿拉比 vs 泰德 2-0 [阿联杯] 2026-09-28 22:40
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bb3303235001834822252774198/playlist_eof.m3u8?t=6abaf7c7&us=696494a675&sign=a387e96c3a7312d558df530b510773ef
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bb3303235001834822252774198/playlist_eof.m3u8?t=6abb0643&us=5fdfadbbd9&sign=686d0e71dba3958e30c676784310e780
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 吉尔吉斯斯坦 vs 马尔代夫 5-0 [国际友谊] 2026-09-28 22:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1c6cd1b75001834822291605163/playlist_eof.m3u8?t=6abafa12&us=39e07b5807&sign=1ce95f3a8a71bf369a83f05c8cd52953
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 克罗地亚U19 vs 法国U19 1-2 [国际友谊] 2026-09-28 21:30
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/dfa9539d5001834822106870179/playlist_eof.m3u8?t=6abaff1c&us=a8c393ef84&sign=91e260f26d4ca7ca59ec702c30336ee2
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 特维尔理工 vs BC莫斯科 96-74 [俄篮杯] 2026-09-28 21:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fc3179255001834822287574743/playlist_eof.m3u8?t=6abaf32a&us=599bac046f&sign=600e51c72928bb20005765d366e82c36
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fc3179255001834822287574743/playlist_eof.m3u8?t=6abb0205&us=43c45b60ba&sign=ee59f6d24780a9bcbbe65e9205c2fccb
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 马来西亚 vs 印尼 0-0 [东盟杯] 2026-09-28 20:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2a569ed95001834822209115692/playlist_eof.m3u8?t=6abaf6ac&us=23e3376689&sign=c56b6b5c130fa10111473a1822b97b3f
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2a569ed95001834822209115692/playlist_eof.m3u8?t=6abb054b&us=5ffd104661&sign=483d0ce2155ed7a6f1428ee6cc155b6d
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 马来西亚 vs 印尼 0-0 [东盟杯] 2026-09-28 20:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b923017c5001834822096820850/playlist_eof.m3u8?t=6abaf6ac&us=23e3376689&sign=6ea7b6b38e7d3f13da09c9a0efb9dfe8
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b923017c5001834822096820850/playlist_eof.m3u8?t=6abb054b&us=5ffd104661&sign=bea9b8ee57da1eaac04cec655ae2bda0
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 马来西亚 vs 印尼 0-0 [东盟杯] 2026-09-28 20:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1d0f1d1b5001834822291694024/playlist_eof.m3u8?t=6abaf6ac&us=23e3376689&sign=bdeac039a66b1e94e45a06e46f59bbca
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1d0f1d1b5001834822291694024/playlist_eof.m3u8?t=6abb054b&us=5ffd104661&sign=f1576dd7c998dc0342936862ef6a749a
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 韩国 vs 乌拉圭 1-4 [国际友谊] 2026-09-28 19:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6043dc265001834822088582944/playlist_eof.m3u8?t=6abafad9&us=5852410d55&sign=7aa86ce04ea8a585f765dcdbdc97cd53
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 韩国 vs 乌拉圭 1-4 [国际友谊] 2026-09-28 19:00
@@ -78,62 +94,52 @@ https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ccdf9e0050018348222837
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] SShOR库班火车头 vs TSK乌拉尔 81-105 [俄篮杯] 2026-09-28 19:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b1a0af8d5001834822286688782/playlist_eof.m3u8?t=6abafbed&us=9066b470db&sign=48def60a9ca5569e1eabc7255ecfa77f
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 斯图拉德 vs 哈尔FC 1-1 [印班超] 2026-09-28 18:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2e0a80935001834822281532323/playlist_eof.m3u8?t=6abaf471&us=d0ed5f54aa&sign=6ef8a269ddcc4bca8a578eb5771ea564
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2e0a80935001834822281532323/playlist_eof.m3u8?t=6abb031a&us=fa915247cd&sign=99f66f1d9d12b28a5ba56202b1176e8a
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 日本 vs 委内瑞拉 2-1 [国际友谊] 2026-09-28 18:25
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7084521c5001834822268555232/playlist_eof.m3u8?t=6abaf435&us=613dd191aa&sign=e24875df24094032a48d0102343a0085
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7084521c5001834822268555232/playlist_eof.m3u8?t=6abb0338&us=df96bbaa04&sign=14f2340bb563b17b49f9298f7ad10990
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 日本 vs 委内瑞拉 2-1 [国际友谊] 2026-09-28 18:25
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7c0fd7045001834822227989045/playlist_eof.m3u8?t=6abaf435&us=613dd191aa&sign=8eafde7a5b92e7e08eed1ed266062685
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7c0fd7045001834822227989045/playlist_eof.m3u8?t=6abb0338&us=df96bbaa04&sign=882df09ff921001cf385b5525e04c820
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 德国U17 vs 委内瑞拉U17 2-1 [国际友谊] 2026-09-28 17:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a49feab35001834822262602164/playlist_eof.m3u8?t=6abafc1e&us=07c878748e&sign=87615803c6182ab7669473f476b4bae0
-#EXTINF:-1 group-title="HS体育赛事实况",[回放] 新加坡 vs 孟加拉国 1-0 [东盟杯] 2026-09-28 17:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/61573cde5001834822180093865/playlist_eof.m3u8?t=6abafedf&us=605902ab2a&sign=63c682521eb79be286b5ea3f87d18904
-#EXTINF:-1 group-title="HS体育赛事实况",[回放] 新加坡 vs 孟加拉国 1-0 [东盟杯] 2026-09-28 17:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a4a239e25001834822262606859/playlist_eof.m3u8?t=6abafedf&us=605902ab2a&sign=1a6f7d85b93c6506cc8817a59db33207
-#EXTINF:-1 group-title="HS体育赛事实况",[回放] 新加坡 vs 孟加拉国 1-0 [东盟杯] 2026-09-28 17:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/26b005e85001834822077537786/playlist_eof.m3u8?t=6abafedf&us=605902ab2a&sign=0d6da79b1ec2083962f714ebc4c552b6
-#EXTINF:-1 group-title="HS体育赛事实况",[回放] 阿格尼普拉 vs 帕里克玛 2-0 [印班超] 2026-09-28 16:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/784e305d5001834822258011697/playlist_eof.m3u8?t=6abaf9e9&us=09d10c022d&sign=d29ebe6fd89ae84493f05d5cd322ae8f
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 女武神 vs 飞翼 104-80 [WNBA] 2026-09-28 09:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/739cea405001834822037479129/playlist_eof.m3u8?t=6abaf931&us=f2b8ecf8ce&sign=cbea9214a3d6789bdc51d113d06115c0
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/739cea405001834822037479129/playlist_eof.m3u8?t=6abb080a&us=3e95241e73&sign=9671c3ff93ca1509ea6cbdac67cf24eb
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 女武神 vs 飞翼 104-80 [WNBA] 2026-09-28 09:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/56212c5f5001834822183674318/playlist_eof.m3u8?t=6abaf931&us=f2b8ecf8ce&sign=7c062dd772cee695dd3ed42b695492db
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/56212c5f5001834822183674318/playlist_eof.m3u8?t=6abb080a&us=3e95241e73&sign=20bdfff08de427fe59f4579365f736dd
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 梦想 vs 神秘人 92-77 [WNBA] 2026-09-28 07:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b20cc8815001834822174457744/playlist_eof.m3u8?t=6abaf859&us=98f7610e33&sign=009e70bb07cc131f98689fd00a28c206
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b20cc8815001834822174457744/playlist_eof.m3u8?t=6abb07a3&us=e886c3a485&sign=4bdec68b8020aeb26afa866fb98d0c40
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 梦想 vs 神秘人 92-77 [WNBA] 2026-09-28 07:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f19e75795001834822222553169/playlist_eof.m3u8?t=6abaf859&us=98f7610e33&sign=9bd6a8ce54871524313d5bda35528e31
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f19e75795001834822222553169/playlist_eof.m3u8?t=6abb07a3&us=e886c3a485&sign=f263a075f717a18875f9af913c319b8c
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 野狼 vs 矿工 81-84 [墨联] 2026-09-28 07:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ab1ff8475001834822174168886/playlist_eof.m3u8?t=6abaf639&us=d88f2ea08d&sign=aa397dce01f7d5ae9538040cbe162297
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ab1ff8475001834822174168886/playlist_eof.m3u8?t=6abb04d8&us=0119c36eed&sign=c6854e8019c2590b3ab4a1c8cac76df9
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 红魔鬼 vs 太空人 67-86 [墨联] 2026-09-28 06:15
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2931dde35001834822219909942/playlist_eof.m3u8?t=6abaf8cb&us=ac226fd3cf&sign=744f7458583f1c33c72485c8886672b0
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2931dde35001834822219909942/playlist_eof.m3u8?t=6abb0773&us=362b4ba6a8&sign=f80745f8b5b2dba84fc1167104b6d373
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 王牌 vs 狂热 102-85 [WNBA] 2026-09-28 04:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/722063d55001834822210815419/playlist_eof.m3u8?t=6abafa6f&us=b65c5ef8f7&sign=25155af5e262a04acf487746d6fd7b1e
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 王牌 vs 狂热 102-85 [WNBA] 2026-09-28 04:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6b56bd375001834822210544980/playlist_eof.m3u8?t=6abafa6f&us=b65c5ef8f7&sign=045cf0979b472913ef62c65c5e806bdd
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 山猫 vs 自由人 75-91 [WNBA] 2026-09-28 02:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3d82801a5001834822193444920/playlist_eof.m3u8?t=6abaf25a&us=c1125f0cf1&sign=26791a3809c4a89fc79aedc31381ee9c
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3d82801a5001834822193444920/playlist_eof.m3u8?t=6abb009e&us=9e1038cabf&sign=51c712385650dfbc1d18a036958e2be1
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 山猫 vs 自由人 75-91 [WNBA] 2026-09-28 02:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f30441a15001834822192569344/playlist_eof.m3u8?t=6abaf25a&us=c1125f0cf1&sign=dbb8952c316f28621f5393538f628280
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f30441a15001834822192569344/playlist_eof.m3u8?t=6abb009e&us=9e1038cabf&sign=a222d87305e96efc4eab1f8440c25cfe
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 安纳托利亚艾菲斯 vs 贝西克塔斯 95-81 [土篮超] 2026-09-28 01:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/182930da5001834822172465038/playlist_eof.m3u8?t=6abaf2b4&us=9d95c24a01&sign=52d42f467ddaaacb98e489054fda0eee
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/182930da5001834822172465038/playlist_eof.m3u8?t=6abb01b6&us=a6f1d2a741&sign=83028da3e22ba724cb18517b7bdfd6b4
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 皇家马德里 vs 马拉加 89-87 [西篮甲] 2026-09-28 01:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ecb22e9d5001834822001982964/playlist_eof.m3u8?t=6abafb87&us=9a52855dc3&sign=b70dc52467d2a66d3c705fd87712cb43
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 绍莱 vs 里昂维勒班 85-97 [法篮甲] 2026-09-28 01:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c0ce78a45001834822198557245/playlist_eof.m3u8?t=6abaf7a0&us=8014ec63ce&sign=16928238e8234fb49d2888b285d8b0fb
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c0ce78a45001834822198557245/playlist_eof.m3u8?t=6abb05d0&us=c46c39f282&sign=662d86701fa9650526bc53298d13cdbb
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 柴郡凤凰 vs 莱切斯特 108-94 [英篮超] 2026-09-28 00:30
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/37a490775001834822145318911/playlist_eof.m3u8?t=6abafad4&us=f6bf34d106&sign=2d50ca28234f48315342c0940142556c
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 乌尔姆兰蒂奥帕姆 vs 维尔茨堡奥利弗 67-90 [德篮甲] 2026-09-28 00:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ca5f56005001834822164640768/playlist_eof.m3u8?t=6abaf765&us=09f5c542b4&sign=4bcd1793c4260a226264722f27ab7f9b
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ca5f56005001834822164640768/playlist_eof.m3u8?t=6abb0648&us=b55324d007&sign=c9eeffca30ef237c11e5202b021563ef
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 瓦伦西亚 vs 莱里达 100-105 [西篮甲] 2026-09-28 00:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/98e5d1cd5001834822102049520/playlist_eof.m3u8?t=6abafd12&us=035f6f3569&sign=290e500264b82ec02eb0c59aed31b115
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 特力康 vs 中央德国 77-72 [德篮甲] 2026-09-27 21:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e17030255001834822178278941/playlist_eof.m3u8?t=6abaf6b2&us=6d264d270e&sign=4d6a0e2f700f1cab6ec0560fa5eab340
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e17030255001834822178278941/playlist_eof.m3u8?t=6abb05d5&us=095852a2b7&sign=c51c3b99d20ce928f5b5803dd7a63ad1
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 布伦瑞克 vs 罗斯托克 83-82 [德篮甲] 2026-09-27 21:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a4944a925001834822177949779/playlist_eof.m3u8?t=6abaf73e&us=2b1aba2f88&sign=0f5baa42bcf5733f19ac1645d429dadd
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a4944a925001834822177949779/playlist_eof.m3u8?t=6abb0663&us=4b2f42f34c&sign=01a3f3841f6c3d37fb77a6defa82d233
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 特里尔 vs 耶拿 98-85 [德篮甲] 2026-09-27 21:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5fabb0045001834822166444786/playlist_eof.m3u8?t=6abaf90c&us=29ba17ff2a&sign=4740801658ee6b1cff17266565f97fb1
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5fabb0045001834822166444786/playlist_eof.m3u8?t=6abb072f&us=b65c834044&sign=0c3cd9350a057b69a7b7f46f0eda7f8f
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] 特拉布宗体育 vs 布尔萨体育 82-76 [土篮超] 2026-09-27 20:30
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3dc71c4f5001834821977697454/playlist_eof.m3u8?t=6abaf708&us=4d0ae6581a&sign=043128cdb803351c3cbe2a258286ebfd
+https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3dc71c4f5001834821977697454/playlist_eof.m3u8?t=6abb05d6&us=d8fa8ed9c6&sign=8f2c58d069a280eab6657ba26701eb3d
 #EXTINF:-1 group-title="HS体育赛事实况",[回放] MBA莫斯科 vs 莫斯科中央陆军 65-82 [VTB] 2026-09-27 20:00
 https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e17ad0415001834822161599381/playlist_eof.m3u8?t=6abafa19&us=10e356cfe8&sign=7f24c44809eee83cf35e2813769bfe4b
-#EXTINF:-1 group-title="HS体育赛事实况",[回放] 伯塔斯女篮 vs CBK梅尔辛女篮 83-74 [土女篮] 2026-09-27 19:00
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b83f2e605001834822167937216/playlist_eof.m3u8?t=6abafb43&us=2c4dd5bca0&sign=b28005497ab0912d6e43bd3d0609899b
