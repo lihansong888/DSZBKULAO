@@ -1,17 +1,16 @@
 import requests
 import re
 import os
-
-
 # ========== 填写源的地址 ==========
 URL_LIST = [
     "https://jsnzkpg.de5.net/all.m3u",
 ]
-
-# ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
-GROUP_MAP = {
-    "数字频道": "HS数字频道",
+# ========== 黑名单：要屏蔽的分组 ==========
+BLOCK_GROUP = {
+    "✈️TG频道@stymei",
 }
+# ========== 输出统一合并到这个分组名 ==========
+OUTPUT_GROUP_NAME = "HS体育赛事实况"
 
 def parse_any(text: str):
     res = []
@@ -54,8 +53,7 @@ def get_group_title(extinf):
     return ""
 
 def main():
-    # 用改后的分组名初始化空列表
-    group_bucket = {v: [] for v in GROUP_MAP.values()}
+    channel_list = []
     seen = set()
     for url in URL_LIST:
         try:
@@ -65,30 +63,27 @@ def main():
             for extinf, play_url in channels:
                 ch_name = get_channel_name(extinf)
                 ch_group = get_group_title(extinf)
-                # 只保留 GROUP_MAP 里有的分组，其他全屏蔽
-                if ch_group not in GROUP_MAP:
+                
+                # 屏蔽指定分组
+                if ch_group in BLOCK_GROUP:
                     continue
-                # 关键：查映射表，把源分组名改成输出分组名
-                output_group = GROUP_MAP[ch_group]
+
                 item_key = (ch_name, play_url)
                 if item_key not in seen:
                     seen.add(item_key)
-                    group_bucket[output_group].append((ch_name, play_url))
+                    channel_list.append((ch_name, play_url))
         except Exception as e:
             print(f"⚠️ 拉取 {url} 失败：{e}")
-    total_cnt = sum(len(v) for v in group_bucket.values())
+    total_cnt = len(channel_list)
     print(f"✅筛选结束，共提取 {total_cnt} 个频道")
-    for gname, ch_list in group_bucket.items():
-        print(f"  - {gname}: {len(ch_list)} 个频道")
 
     out_dir = os.path.dirname(os.path.abspath(__file__))
     output_m3u = ["#EXTM3U"]
-    for gname, ch_list in group_bucket.items():
-        for cname, curl in ch_list:
-            # 输出时用改后的分组名
-            fake_ext = f'#EXTINF:-1 group-title="{gname}",{cname}'
-            output_m3u.append(fake_ext)
-            output_m3u.append(curl)
+    # 全部频道统一使用同一个分组名
+    for cname, curl in channel_list:
+        fake_ext = f'#EXTINF:-1 group-title="{OUTPUT_GROUP_NAME}",{cname}'
+        output_m3u.append(fake_ext)
+        output_m3u.append(curl)
     m3u8_path = os.path.join(out_dir, "live.m3u8")
     with open(m3u8_path, "w", encoding="utf-8") as f:
         f.write("\n".join(output_m3u))
