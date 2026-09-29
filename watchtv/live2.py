@@ -94,7 +94,7 @@ def main():
             fake_ext = f'#EXTINF:-1 group-title="{gname}",{cname}'
             output_m3u.append(fake_ext)
             output_m3u.append(curl)
-    m3u8_path = os.path.join(out_dir, "live.m3u8")
+    m3u8_path = os.path.join(out_dir, "live2.m3u8")
     with open(m3u8_path, "w", encoding="utf-8") as f:
         f.write("\n".join(output_m3u))
     print(f"✅已输出 m3u8：{m3u8_path}")
