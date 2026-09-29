@@ -1,22 +1,17 @@
-name: Sync SZPD Source
+name: Sync HUYA Source
+
 on:
   push:
     branches: [ main ]
     paths:
       - 'watchtv/live.py'
-      - 'watchtv/live2.py'
       - '.github/workflows/live.yml'
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'
-
-# 防git并发提交冲突
-concurrency:
-  group: live-sync
-  cancel-in-progress: true
+    - cron: '0 */3 * * *'
 
 jobs:
-  sync1:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,21 +26,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add watchtv/live.m3u8
           git commit -m "auto update live.m3u8" || echo "nothing changed"
-          git push origin main
-
-  sync2:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - run: pip install requests
-      - run: ls -R
-      - run: python watchtv/live2.py
-      - run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add watchtv/live2.m3u8
-          git commit -m "auto update live2.m3u8" || echo "nothing changed"
           git push origin main
