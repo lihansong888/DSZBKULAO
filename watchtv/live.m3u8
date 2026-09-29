@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事实况",朝鲜女足 vs 中国女足 2-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4650302.m3u8?txSecret=72ddc2532e7f3c2ab71703653d831859&txTime=6ABCBBE0
+#EXTINF:-1 group-title="HS体育赛事实况",泰国 vs 越南 2-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4639761.m3u8?txSecret=ca0d614fb0b286ff40477d155ea74715&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",斯洛文尼亚U21 vs 以色列U21 1-0 [解说]
+https://hello.ooo0ooo.top/live/4336611.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",斯洛文尼亚U21 vs 以色列U21 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4336611.m3u8?txSecret=19bd10a79e9d66e15fc3b89d8fd6c23c&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",布隆迪 vs 阿尔及利亚 2-1 [解说]
+https://hello.ooo0ooo.top/live/4642702.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",布隆迪 vs 阿尔及利亚 2-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642702.m3u8?txSecret=130f35e9b8e96dfd7c90ea024234622a&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",南苏丹 vs 埃及 0-2 [解说]
+https://hello.ooo0ooo.top/live/4642703.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",南苏丹 vs 埃及 0-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642703.m3u8?txSecret=c8241e8c3f8c31919f50f70aa2925ee6&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",莱索托 vs 摩洛哥 0-1 [解说]
+https://hello.ooo0ooo.top/live/4642704.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",莱索托 vs 摩洛哥 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642704.m3u8?txSecret=f02365caabf05ee3f6fbed1cc5017493&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",莫桑比克 vs 苏丹 4-0 [解说]
+https://hello.ooo0ooo.top/live/4642705.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",莫桑比克 vs 苏丹 4-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642705.m3u8?txSecret=bffb22c8de150624c47dd0919b3d2666&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",埃塞俄比亚 vs 塞内加尔 0-1 [解说]
+https://hello.ooo0ooo.top/live/4642706.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",埃塞俄比亚 vs 塞内加尔 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642706.m3u8?txSecret=d5be5dc49fb9334787e400dd07cc89db&txTime=6ABD1B80
+#EXTINF:-1 group-title="HS体育赛事实况",马达加斯加 vs 坦桑尼亚 0-0 [解说]
+https://hello.ooo0ooo.top/live/4642707.m3u8
+#EXTINF:-1 group-title="HS体育赛事实况",马达加斯加 vs 坦桑尼亚 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642707.m3u8?txSecret=bae094722155cbabcc5ef0074d514de7&txTime=6ABD1B80
