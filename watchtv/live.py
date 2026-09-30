@@ -12,7 +12,7 @@ BLOCK_GROUP = {
     
 }
 # ========== 输出统一合并到这个分组名 ==========
-OUTPUT_GROUP_NAME = "HS体育赛事实况"
+OUTPUT_GROUP_NAME = "HS体育赛事"
 
 def parse_any(text: str):
     res = []
