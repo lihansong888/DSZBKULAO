@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",萨尔塞多 vs 东部海豚 1-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4651933.m3u8?txSecret=03bf942fe3de7f9788dd90bfc34e87c7&txTime=6ABED588
-#EXTINF:-1 group-title="HS体育赛事",西恩夏诺 vs 洛斯香卡斯 1-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4550716.m3u8?txSecret=b6b66c74a8e971e826b59ad5249cc02f&txTime=6ABED588
+#EXTINF:-1 group-title="HS体育赛事",飞翼 vs 女武神 108-100 [解说]
+https://hello.ooo0ooo.top/live/3943754.m3u8
+#EXTINF:-1 group-title="HS体育赛事",飞翼 vs 女武神 108-100 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3943754.m3u8?txSecret=7f00a138ca34704889398a8c104f2a34&txTime=6ABF2C40
+#EXTINF:-1 group-title="HS体育赛事",萨克拉门托 vs 拉斯维加斯之光 3-2 [解说]
+https://hello.ooo0ooo.top/live/4473254.m3u8
+#EXTINF:-1 group-title="HS体育赛事",萨克拉门托 vs 拉斯维加斯之光 3-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4473254.m3u8?txSecret=92a0e56c4af852e92dfe596530590076&txTime=6ABF2CB8
