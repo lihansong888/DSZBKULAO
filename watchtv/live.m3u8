@@ -1,7 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",圣基茨和尼维斯 vs 古巴 1-2 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642574.m3u8?txSecret=1aa38ddbd3835deee83fe326d18d082e&txTime=6AC17798
-#EXTINF:-1 group-title="HS体育赛事",伊蒂哈德丹吉尔 vs 马格里布得土安 1-1 [解说]
-https://hello.ooo0ooo.top/live/4632803.m3u8
-#EXTINF:-1 group-title="HS体育赛事",伊蒂哈德丹吉尔 vs 马格里布得土安 1-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4632803.m3u8?txSecret=16558eec2e73500681b24836f8a28ba4&txTime=6AC17798
+#EXTINF:-1 group-title="HS体育赛事",萨尔瓦多 vs 牙买加 0-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642648.m3u8?txSecret=c927e15d675f24b15eb927118d3d2624&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",蒙特雷女足 vs 墨西哥美洲女足 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4599496.m3u8?txSecret=9a63a10d325e8ebe7dd48b89812dbb5e&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",热浪 vs 淘金者 74-67 [解说]
+https://hello.ooo0ooo.top/live/3923974.m3u8
+#EXTINF:-1 group-title="HS体育赛事",热浪 vs 淘金者 74-67 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3923974.m3u8?txSecret=08223900d3629d68aa493141a1bd3ce4&txTime=6AC1BF50
+#EXTINF:-1 group-title="HS体育赛事",走鹃 vs 野狼 85-90 [解说]
+https://hello.ooo0ooo.top/live/3924052.m3u8
+#EXTINF:-1 group-title="HS体育赛事",走鹃 vs 野狼 85-90 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3924052.m3u8?txSecret=8c00a54980d7467bf37ed4f2c5c7701d&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",圣徒 vs 草莓种植者 68-62 [解说]
+https://hello.ooo0ooo.top/live/3924010.m3u8
+#EXTINF:-1 group-title="HS体育赛事",圣徒 vs 草莓种植者 68-62 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3924010.m3u8?txSecret=7bc7a355d99ba279defe0f6abb49a0f2&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",矿工 vs 蜜蜂 65-71 [解说]
+https://hello.ooo0ooo.top/live/3923933.m3u8
+#EXTINF:-1 group-title="HS体育赛事",矿工 vs 蜜蜂 65-71 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3923933.m3u8?txSecret=d1bb0c4047c80b8180715872fa73ef96&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",太空人 vs 皇家部队 51-54 [解说]
+https://hello.ooo0ooo.top/live/3923966.m3u8
+#EXTINF:-1 group-title="HS体育赛事",太空人 vs 皇家部队 51-54 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3923966.m3u8?txSecret=fedab14cca9b83cdacebcbeda4696efe&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",黑豹 vs 金人 41-43 [解说]
+https://hello.ooo0ooo.top/live/3923890.m3u8
+#EXTINF:-1 group-title="HS体育赛事",黑豹 vs 金人 41-43 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3923890.m3u8?txSecret=1e514a58552792c90fa646ab40f2b750&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",太阳 vs 红魔鬼 31-23 [解说]
+https://hello.ooo0ooo.top/live/3923924.m3u8
+#EXTINF:-1 group-title="HS体育赛事",太阳 vs 红魔鬼 31-23 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3923924.m3u8?txSecret=8b8f51388c7d7f4ee440bb4ad5ebd526&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",拉巴斯竞技 vs 鹿队 1-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4578849.m3u8?txSecret=3de866b4e65e560e6bbca7fefd8a8f83&txTime=6AC1CB09
+#EXTINF:-1 group-title="HS体育赛事",西雅图统治女足 vs 北卡罗来纳勇气女足 0-1 [解说]
+https://hello.ooo0ooo.top/live/4511085.m3u8
+#EXTINF:-1 group-title="HS体育赛事",西雅图统治女足 vs 北卡罗来纳勇气女足 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4511085.m3u8?txSecret=f5bcade0ef6a239b5c6b7c1d48a658db&txTime=6AC1CB09
