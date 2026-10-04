@@ -1,41 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",内卡萨女足 vs 蓝十字女足 0-1 [解说]
-https://hello.ooo0ooo.top/live/4599498.m3u8
-#EXTINF:-1 group-title="HS体育赛事",内卡萨女足 vs 蓝十字女足 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4599498.m3u8?txSecret=5386fd5c4dfd654e26ea6585920f310b&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",北卡胡女篮 vs 南方黄眼企鹅女篮 66-78 [解说]
-https://hello.ooo0ooo.top/live/3938206.m3u8
-#EXTINF:-1 group-title="HS体育赛事",北卡胡女篮 vs 南方黄眼企鹅女篮 66-78 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-2-3938206.m3u8?txSecret=c839392fe8faddd4418eb6ce4ec4169a&txTime=6AC31EE0
-#EXTINF:-1 group-title="HS体育赛事",札幌冈萨多 vs 磐城FC 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4555583.m3u8?txSecret=31adc70d1add7200c27f580668eed2e7&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",八户于南乡 vs 横滨FC 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4555650.m3u8?txSecret=7a3e875bd03083b7d2b82aa584154120&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",爱媛FC女足 vs 维亚马特拉斯宫崎女足 0-1 [解说]
-https://hello.ooo0ooo.top/live/4510881.m3u8
-#EXTINF:-1 group-title="HS体育赛事",爱媛FC女足 vs 维亚马特拉斯宫崎女足 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4510881.m3u8?txSecret=c9f0b1f2171e7f5be0319b7a642f0c56&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",伊贺女忍者女足 vs 播磨阿尔比恩女足 0-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4510882.m3u8?txSecret=c1986e27e8afdda316aed05942d2d462&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",汤乡贝勒女足 vs 静冈产大女足 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4510883.m3u8?txSecret=d108aff46902f656ea70beecd1b4024e&txTime=6AC32318
-#EXTINF:-1 group-title="HS体育赛事",冲绳SV vs 浦安矛船 0-1 [解说]
-https://hello.ooo0ooo.top/live/4624935.m3u8
-#EXTINF:-1 group-title="HS体育赛事",冲绳SV vs 浦安矛船 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4624935.m3u8?txSecret=2ae471c78337f395c7ecf17e44b18e96&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",丸安冈崎 vs 润梅尔青森 0-0 [解说]
-https://hello.ooo0ooo.top/live/4624936.m3u8
-#EXTINF:-1 group-title="HS体育赛事",丸安冈崎 vs 润梅尔青森 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4624936.m3u8?txSecret=5deaa6c35a203c4b69f3d40aff6d984f&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",J-利斯FC vs 天籁枚方 0-1 [解说]
-https://hello.ooo0ooo.top/live/4624937.m3u8
-#EXTINF:-1 group-title="HS体育赛事",J-利斯FC vs 天籁枚方 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4624937.m3u8?txSecret=c142726617c298a927f035cef47ec9cc&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",东南墨尔本凤凰 vs 伊拉瓦拉老鹰 12-7 [解说]
-https://hello.ooo0ooo.top/live/3926003.m3u8
-#EXTINF:-1 group-title="HS体育赛事",东南墨尔本凤凰 vs 伊拉瓦拉老鹰 12-7 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-2-3926003.m3u8?txSecret=c3b8f415bbf6af9a719691749286d642&txTime=6AC32390
-#EXTINF:-1 group-title="HS体育赛事",拉斯维加斯之光 vs 圣安东尼奥 1-0 [解说]
-https://hello.ooo0ooo.top/live/4473249.m3u8
-#EXTINF:-1 group-title="HS体育赛事",拉斯维加斯之光 vs 圣安东尼奥 1-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4473249.m3u8?txSecret=df7f914cbc579244c991f4793cdc1309&txTime=6AC32390
+#EXTINF:-1 group-title="HS体育赛事",湖北青年星U20 vs 山东泰山U20 1-0 [解说]
+https://hello.ooo0ooo.top/live/4640409.m3u8
+#EXTINF:-1 group-title="HS体育赛事",湖北青年星U20 vs 山东泰山U20 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4640409.m3u8?txSecret=4e0ff5668db35f109487b0ffd5d1fdd5&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",韦莱斯 vs 乌里扬诺夫斯克伏尔加 0-0 [解说]
+https://hello.ooo0ooo.top/live/4576597.m3u8
+#EXTINF:-1 group-title="HS体育赛事",韦莱斯 vs 乌里扬诺夫斯克伏尔加 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4576597.m3u8?txSecret=2689e0a1250340562e9c8f8987c215ad&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",马钢城冶金 vs 车里雅宾斯克奥林匹克 30-35 [解说]
+https://hello.ooo0ooo.top/live/3939737.m3u8
+#EXTINF:-1 group-title="HS体育赛事",马钢城冶金 vs 车里雅宾斯克奥林匹克 30-35 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3939737.m3u8?txSecret=c94051539f79aca1eeb4827dc86c667a&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",莫斯科中央陆军B队 vs 伊泽夫斯克 29-32 [解说]
+https://hello.ooo0ooo.top/live/3939723.m3u8
+#EXTINF:-1 group-title="HS体育赛事",明约匹尼克 vs 旧扎戈拉贝罗 1-1 [解说]
+https://hello.ooo0ooo.top/live/4650364.m3u8
+#EXTINF:-1 group-title="HS体育赛事",明约匹尼克 vs 旧扎戈拉贝罗 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4650364.m3u8?txSecret=8434a96a9659ac6c39abeb728d4c79e4&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",克罗地亚U19 vs 土耳其U19 2-0 [解说]
+https://hello.ooo0ooo.top/live/4654142.m3u8
+#EXTINF:-1 group-title="HS体育赛事",克罗地亚U19 vs 土耳其U19 2-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4654142.m3u8?txSecret=9acee30d7314f393a7db358dc4914852&txTime=6AC386F0
+#EXTINF:-1 group-title="HS体育赛事",卡伊罗瓦市 vs 巴赫斯塞希尔科勒吉 68-71 [解说]
+https://hello.ooo0ooo.top/live/3929962.m3u8
+#EXTINF:-1 group-title="HS体育赛事",卡伊罗瓦市 vs 巴赫斯塞希尔科勒吉 68-71 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3929962.m3u8?txSecret=574250c1732faef99109885c0d4313bf&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",宫崎棒牛鸟 vs RB大宫松鼠 1-1 [解说]
+https://hello.ooo0ooo.top/live/4555592.m3u8
+#EXTINF:-1 group-title="HS体育赛事",宫崎棒牛鸟 vs RB大宫松鼠 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4555592.m3u8?txSecret=16fd6a1fa27060aea2981c1ebe838606&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",盐城队 vs 宿迁队 0-0 [解说]
+https://hello.ooo0ooo.top/live/4648240.m3u8
+#EXTINF:-1 group-title="HS体育赛事",苏州队 vs 常州队 0-0 [解说]
+https://hello.ooo0ooo.top/live/4648241.m3u8
+#EXTINF:-1 group-title="HS体育赛事",BK奥林匹克 vs 特雷勒堡 0-2 [解说]
+https://hello.ooo0ooo.top/live/4475380.m3u8
+#EXTINF:-1 group-title="HS体育赛事",BK奥林匹克 vs 特雷勒堡 0-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4475380.m3u8?txSecret=97c92dda9393da0256e04ec28428effc&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",维萨隆德 vs FC阿尔兰达 0-2 [解说]
+https://hello.ooo0ooo.top/live/4475622.m3u8
+#EXTINF:-1 group-title="HS体育赛事",维萨隆德 vs FC阿尔兰达 0-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4475622.m3u8?txSecret=e6a22dc2b72b42a5637221ff074b96c2&txTime=6AC382B8
+#EXTINF:-1 group-title="HS体育赛事",法鲁人 vs 查维斯 3-0 [解说]
+https://hello.ooo0ooo.top/live/4577886.m3u8
+#EXTINF:-1 group-title="HS体育赛事",法鲁人 vs 查维斯 3-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4577886.m3u8?txSecret=e22ef90b13c59558d5c454a2a3fb3864&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",莱里达 vs 圣帕罗布哥斯 73-79 [解说]
+https://hello.ooo0ooo.top/live/3932771.m3u8
+#EXTINF:-1 group-title="HS体育赛事",莱里达 vs 圣帕罗布哥斯 73-79 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3932771.m3u8?txSecret=2cf9db7dfcc2d989e0258c78cbfd7c27&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",拉科鲁尼亚 vs 毕尔巴鄂 82-79 [解说]
+https://hello.ooo0ooo.top/live/3932800.m3u8
+#EXTINF:-1 group-title="HS体育赛事",拉科鲁尼亚 vs 毕尔巴鄂 82-79 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3932800.m3u8?txSecret=7a2db955b9829765410d77606c2f0544&txTime=6AC38D80
+#EXTINF:-1 group-title="HS体育赛事",奥布拉多 vs 皇家马德里 50-61 [解说]
+https://hello.ooo0ooo.top/live/3932829.m3u8
+#EXTINF:-1 group-title="HS体育赛事",奥布拉多 vs 皇家马德里 50-61 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3932829.m3u8?txSecret=19baae1c5fd487846ae86b3ec21ee23d&txTime=6AC38D80
