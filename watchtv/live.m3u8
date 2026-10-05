@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",印尼 vs 泰国 0-0 [解说]
-https://hello.ooo0ooo.top/live/4652619.m3u8
-#EXTINF:-1 group-title="HS体育赛事",印尼 vs 泰国 0-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4652619.m3u8?txSecret=67b0ef41881352a8e0d9af8018a4c5c4&txTime=6AC504F8
-#EXTINF:-1 group-title="HS体育赛事",乌干达 vs 刚果(金) 0-1 [解说]
-https://hello.ooo0ooo.top/live/4650110.m3u8
-#EXTINF:-1 group-title="HS体育赛事",乌干达 vs 刚果(金) 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4650110.m3u8?txSecret=24110428895323e04a137a2add47172b&txTime=6AC504F8
-#EXTINF:-1 group-title="HS体育赛事",乌克兰U21 vs 阿尔巴尼亚U21 0-1 [解说]
-https://hello.ooo0ooo.top/live/4650111.m3u8
-#EXTINF:-1 group-title="HS体育赛事",乌克兰U21 vs 阿尔巴尼亚U21 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4650111.m3u8?txSecret=bb46dcc5774e916c6fa54374c040adb6&txTime=6AC504F8
+#EXTINF:-1 group-title="HS体育赛事",古巴 vs 圣基茨和尼维斯 1-1 [解说]
+https://hello.ooo0ooo.top/live/4642630.m3u8
+#EXTINF:-1 group-title="HS体育赛事",古巴 vs 圣基茨和尼维斯 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642630.m3u8?txSecret=28c37b4b3aa5c66f7a34d262f2913372&txTime=6AC569C0
+#EXTINF:-1 group-title="HS体育赛事",特立尼登斯 vs 卢克尼奥竞技 3-2 [解说]
+https://hello.ooo0ooo.top/live/4631199.m3u8
+#EXTINF:-1 group-title="HS体育赛事",特立尼登斯 vs 卢克尼奥竞技 3-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=032f46d49810f18e749779c83c9347c9&txTime=6AC569C0
+#EXTINF:-1 group-title="HS体育赛事",新芝加哥 vs 迈普 0-0 [解说]
+https://hello.ooo0ooo.top/live/4471467.m3u8
+#EXTINF:-1 group-title="HS体育赛事",新芝加哥 vs 迈普 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=a43d3eff083b9e1e0190030a37ba50b2&txTime=6AC569C0
+#EXTINF:-1 group-title="HS体育赛事",利斯特雷 vs 科尔多瓦中央 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4539781.m3u8?txSecret=b8f559fbe0b987070001ea82556d508a&txTime=6AC569C0
