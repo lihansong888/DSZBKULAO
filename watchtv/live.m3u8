@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",尼加拉瓜 vs 多米尼加共和国 1-2 [解说]
-https://hello.ooo0ooo.top/live/4642650.m3u8
-#EXTINF:-1 group-title="HS体育赛事",尼加拉瓜 vs 多米尼加共和国 1-2 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642650.m3u8?txSecret=bb0fe69898a7be1a1e1ab848bbf8449f&txTime=6AC470D8
+#EXTINF:-1 group-title="HS体育赛事",印尼 vs 泰国 0-0 [解说]
+https://hello.ooo0ooo.top/live/4652619.m3u8
+#EXTINF:-1 group-title="HS体育赛事",印尼 vs 泰国 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4652619.m3u8?txSecret=fdca85654489b064836a584e3252acf6&txTime=6AC4F7D8
+#EXTINF:-1 group-title="HS体育赛事",乌干达 vs 刚果(金) 0-0 [解说]
+https://hello.ooo0ooo.top/live/4650110.m3u8
+#EXTINF:-1 group-title="HS体育赛事",乌干达 vs 刚果(金) 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4650110.m3u8?txSecret=d6f3cdfabe492592899357d22729049a&txTime=6AC4F7D8
+#EXTINF:-1 group-title="HS体育赛事",乌克兰U21 vs 阿尔巴尼亚U21 0-0 [解说]
+https://hello.ooo0ooo.top/live/4650111.m3u8
+#EXTINF:-1 group-title="HS体育赛事",乌克兰U21 vs 阿尔巴尼亚U21 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4650111.m3u8?txSecret=8bbab4d9a2083cde6c4f78bf24df678b&txTime=6AC4F7D8
