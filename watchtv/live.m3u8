@@ -1,15 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",古巴 vs 圣基茨和尼维斯 1-1 [解说]
-https://hello.ooo0ooo.top/live/4642630.m3u8
-#EXTINF:-1 group-title="HS体育赛事",古巴 vs 圣基茨和尼维斯 1-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642630.m3u8?txSecret=28c37b4b3aa5c66f7a34d262f2913372&txTime=6AC569C0
-#EXTINF:-1 group-title="HS体育赛事",特立尼登斯 vs 卢克尼奥竞技 3-2 [解说]
-https://hello.ooo0ooo.top/live/4631199.m3u8
-#EXTINF:-1 group-title="HS体育赛事",特立尼登斯 vs 卢克尼奥竞技 3-2 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=032f46d49810f18e749779c83c9347c9&txTime=6AC569C0
-#EXTINF:-1 group-title="HS体育赛事",新芝加哥 vs 迈普 0-0 [解说]
-https://hello.ooo0ooo.top/live/4471467.m3u8
-#EXTINF:-1 group-title="HS体育赛事",新芝加哥 vs 迈普 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=a43d3eff083b9e1e0190030a37ba50b2&txTime=6AC569C0
-#EXTINF:-1 group-title="HS体育赛事",利斯特雷 vs 科尔多瓦中央 1-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4539781.m3u8?txSecret=b8f559fbe0b987070001ea82556d508a&txTime=6AC569C0
+#EXTINF:-1 group-title="HS体育赛事",雄鹿 vs 森林狼 69-74 [解说]
+https://hello.ooo0ooo.top/live/3944614.m3u8
+#EXTINF:-1 group-title="HS体育赛事",雄鹿 vs 森林狼 69-74 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3944614.m3u8?txSecret=5b7430db6230ef24f46e8d74a19fa180&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",国王 vs 湖人 0-0 [解说]
+https://hello.ooo0ooo.top/live/3925710.m3u8
+#EXTINF:-1 group-title="HS体育赛事",国王 vs 湖人 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925710.m3u8?txSecret=0a3de778dfb76cf9f0784d5348fb2a7c&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",格林纳达 vs 博内尔岛 1-4 [解说]
+https://hello.ooo0ooo.top/live/4642600.m3u8
+#EXTINF:-1 group-title="HS体育赛事",格林纳达 vs 博内尔岛 1-4 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642600.m3u8?txSecret=6e64c3ed34b22c1ccd708889b2892750&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",百慕大群岛 vs 巴巴多斯 1-2 [解说]
+https://hello.ooo0ooo.top/live/4642631.m3u8
+#EXTINF:-1 group-title="HS体育赛事",百慕大群岛 vs 巴巴多斯 1-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642631.m3u8?txSecret=49daf20be25338fa25249635ec84e905&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",危地马拉 vs 苏里南 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642656.m3u8?txSecret=d1a12a5525d7b46d6545bb35a41e793f&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",奥尔索马尔索 vs 奎迪奥 0-1 [解说]
+https://hello.ooo0ooo.top/live/4596285.m3u8
+#EXTINF:-1 group-title="HS体育赛事",奥尔索马尔索 vs 奎迪奥 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4596285.m3u8?txSecret=4df10d3ab98f6d3796c21b4c345c46c9&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",麦德林独立 vs 圣塔菲 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4569321.m3u8?txSecret=7def2b0e9719a1243c16aaa19ec186c6&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",阿内特加登斯 vs 波特莫尔联 1-0 [解说]
+https://hello.ooo0ooo.top/live/4649090.m3u8
+#EXTINF:-1 group-title="HS体育赛事",阿内特加登斯 vs 波特莫尔联 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4649090.m3u8?txSecret=f6b982be4d6edeb9deee1b1277bc20ba&txTime=6AC5A5C0
+#EXTINF:-1 group-title="HS体育赛事",班菲尔德 vs 罗萨里奥中央 1-0 [解说]
+https://hello.ooo0ooo.top/live/4539778.m3u8
+#EXTINF:-1 group-title="HS体育赛事",班菲尔德 vs 罗萨里奥中央 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4539778.m3u8?txSecret=fbee7cc61f513da379ef64ab163f1a9b&txTime=6AC5A5C0
