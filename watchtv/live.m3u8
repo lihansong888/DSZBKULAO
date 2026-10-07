@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",法属圣马丁岛 vs 巴哈马 3-0 [解说]
-https://hello.ooo0ooo.top/live/4642603.m3u8
-#EXTINF:-1 group-title="HS体育赛事",法属圣马丁岛 vs 巴哈马 3-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642603.m3u8?txSecret=956dad4276690bc1a4ac8625dfbf24b5&txTime=6AC6B078
-#EXTINF:-1 group-title="HS体育赛事",蒙特塞拉特岛 vs 特克斯和凯科斯群岛 2-0 [解说]
-https://hello.ooo0ooo.top/live/4642619.m3u8
-#EXTINF:-1 group-title="HS体育赛事",蒙特塞拉特岛 vs 特克斯和凯科斯群岛 2-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642619.m3u8?txSecret=9f240ff117162a7cf91dbd6dfb76e66d&txTime=6AC6B078
-#EXTINF:-1 group-title="HS体育赛事",艾美利亚诺体育 vs 鲁毕奥 0-1 [解说]
-https://hello.ooo0ooo.top/live/4631194.m3u8
-#EXTINF:-1 group-title="HS体育赛事",艾美利亚诺体育 vs 鲁毕奥 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4631194.m3u8?txSecret=375c5e011fd7e7cc147b21dffc8f7f1d&txTime=6AC6B078
-#EXTINF:-1 group-title="HS体育赛事",伦敦雄狮 vs 特内里费 87-77 [解说]
-https://hello.ooo0ooo.top/live/3929121.m3u8
-#EXTINF:-1 group-title="HS体育赛事",伦敦雄狮 vs 特内里费 87-77 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3929121.m3u8?txSecret=c3317d0a762191f74937dded679e32d7&txTime=6AC6B078
-#EXTINF:-1 group-title="HS体育赛事",尤文图特 vs 比内海尔兹利亚 86-75 [解说]
-https://hello.ooo0ooo.top/live/3939932.m3u8
-#EXTINF:-1 group-title="HS体育赛事",尤文图特 vs 比内海尔兹利亚 86-75 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3939932.m3u8?txSecret=13da2bf5816860f71e1e9d5abc3675a1&txTime=6AC6AC40
-#EXTINF:-1 group-title="HS体育赛事",安哥拉 vs 马拉维 3-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4642694.m3u8?txSecret=0c566cfe48a2ff5f6f209be8504cdc59&txTime=6AC6B078
+#EXTINF:-1 group-title="HS体育赛事",黄蜂 vs 篮网 54-58 [解说]
+https://hello.ooo0ooo.top/live/3926124.m3u8
+#EXTINF:-1 group-title="HS体育赛事",黄蜂 vs 篮网 54-58 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3926124.m3u8?txSecret=412faa7d3df00087896e9e1fe0a49ef3&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",雷霆 vs 鹈鹕 23-16 [解说]
+https://hello.ooo0ooo.top/live/3925689.m3u8
+#EXTINF:-1 group-title="HS体育赛事",雷霆 vs 鹈鹕 23-16 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925689.m3u8?txSecret=1fb0b91a0a3477f0df25e672006e3456&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",安提瓜和巴布达 vs 阿鲁巴 2-2 [解说]
+https://hello.ooo0ooo.top/live/4642618.m3u8
+#EXTINF:-1 group-title="HS体育赛事",安提瓜和巴布达 vs 阿鲁巴 2-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4642618.m3u8?txSecret=504937b66b341a60541a41069251c703&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",阿根廷 vs 贝宁 0-0 [解说]
+https://hello.ooo0ooo.top/live/4650124.m3u8
+#EXTINF:-1 group-title="HS体育赛事",阿根廷 vs 贝宁 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4650124.m3u8?txSecret=82161f151b58c036ce811b357026ca54&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",哥伦比亚 vs 秘鲁 0-0 [解说]
+https://hello.ooo0ooo.top/live/4650126.m3u8
+#EXTINF:-1 group-title="HS体育赛事",哥伦比亚 vs 秘鲁 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4650126.m3u8?txSecret=f462e536c141f27ccc5b148f01479aa0&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",美国 vs 加拿大 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4650127.m3u8?txSecret=56204f7c6d071ee9e4774402a1de2313&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",累西腓体育 vs 圣贝尔纳多 2-1 [解说]
+https://hello.ooo0ooo.top/live/4494754.m3u8
+#EXTINF:-1 group-title="HS体育赛事",累西腓体育 vs 圣贝尔纳多 2-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4494754.m3u8?txSecret=7e274f6a1ef38e72b50ebd5b52421654&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",戈亚斯 vs 巴西竞技 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4494751.m3u8?txSecret=bbe19b599151fe7758cfdef8d42a33ea&txTime=6AC6E390
+#EXTINF:-1 group-title="HS体育赛事",科洛科洛 vs 蒙特港 1-0 [解说]
+https://hello.ooo0ooo.top/live/4651803.m3u8
+#EXTINF:-1 group-title="HS体育赛事",科洛科洛 vs 蒙特港 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4651803.m3u8?txSecret=35184d39688e4255560ecf10d9734d47&txTime=6AC6E390
