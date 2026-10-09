@@ -1,23 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",玛利比菲斯 vs 拉贾竞技 0-0 [解说]
-https://hello.ooo0ooo.top/live/4632807.m3u8
-#EXTINF:-1 group-title="HS体育赛事",拜仁慕尼黑 vs 博洛尼亚 87-94 [解说]
-https://hello.ooo0ooo.top/live/3926624.m3u8
-#EXTINF:-1 group-title="HS体育赛事",拜仁慕尼黑 vs 博洛尼亚 87-94 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3926624.m3u8?txSecret=7ec2e909cfd0fbae979d1683fe355c7c&txTime=6AC94929
-#EXTINF:-1 group-title="HS体育赛事",帕纳辛纳科斯 vs 费内巴切 80-65 [解说]
-https://hello.ooo0ooo.top/live/3926773.m3u8
-#EXTINF:-1 group-title="HS体育赛事",帕纳辛纳科斯 vs 费内巴切 80-65 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3926773.m3u8?txSecret=55a8485ee27ea09f808bac28f541d5d2&txTime=6AC94929
-#EXTINF:-1 group-title="HS体育赛事",瓦伦西亚 vs 特拉维夫夏普尔 74-57 [解说]
-https://hello.ooo0ooo.top/live/3926475.m3u8
-#EXTINF:-1 group-title="HS体育赛事",瓦伦西亚 vs 特拉维夫夏普尔 74-57 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3926475.m3u8?txSecret=ea13f484704de157f952687afbccc1f5&txTime=6AC94929
-#EXTINF:-1 group-title="HS体育赛事",皇家马德里 vs 贝尔格莱德游击 66-57 [解说]
-https://hello.ooo0ooo.top/live/3926706.m3u8
-#EXTINF:-1 group-title="HS体育赛事",皇家马德里 vs 贝尔格莱德游击 66-57 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3926706.m3u8?txSecret=3e4dfaaae62c9878c3a04a81057ed488&txTime=6AC94929
-#EXTINF:-1 group-title="HS体育赛事",沙姆洛克 vs 德罗赫达联 3-0 [解说]
-https://hello.ooo0ooo.top/live/4469118.m3u8
-#EXTINF:-1 group-title="HS体育赛事",沙姆洛克 vs 德罗赫达联 3-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4469118.m3u8?txSecret=a77415d5e6d9297866b844b037f0678e&txTime=6AC94929
+#EXTINF:-1 group-title="HS体育赛事",骑士 vs 凯尔特人 81-80 [解说]
+https://hello.ooo0ooo.top/live/3925692.m3u8
+#EXTINF:-1 group-title="HS体育赛事",骑士 vs 凯尔特人 81-80 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925692.m3u8?txSecret=480ca5287b6360b7ee1616089e91886a&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",热火 vs 鹈鹕 65-54 [解说]
+https://hello.ooo0ooo.top/live/3925693.m3u8
+#EXTINF:-1 group-title="HS体育赛事",热火 vs 鹈鹕 65-54 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925693.m3u8?txSecret=2acb981ca853cedf33bc1c9cb59d19b4&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",篮网 vs 76人 47-44 [解说]
+https://hello.ooo0ooo.top/live/3926127.m3u8
+#EXTINF:-1 group-title="HS体育赛事",篮网 vs 76人 47-44 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3926127.m3u8?txSecret=748c6907a29d2f2d3b61514225ab523e&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",尼克斯 vs 奇才 54-50 [解说]
+https://hello.ooo0ooo.top/live/3931442.m3u8
+#EXTINF:-1 group-title="HS体育赛事",尼克斯 vs 奇才 54-50 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931442.m3u8?txSecret=4d8d07538e3f6ddd6925dbf2546dc34e&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",马刺 vs 老鹰 36-18 [解说]
+https://hello.ooo0ooo.top/live/3925694.m3u8
+#EXTINF:-1 group-title="HS体育赛事",马刺 vs 老鹰 36-18 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925694.m3u8?txSecret=a2bbc8a880f5499fb80386ceaf24de78&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",国民竞技 vs 托利马体育 0-0 [解说]
+https://hello.ooo0ooo.top/live/4569276.m3u8
+#EXTINF:-1 group-title="HS体育赛事",桑托斯 vs 弗拉门戈 2-2 [解说]
+https://hello.ooo0ooo.top/live/4465845.m3u8
+#EXTINF:-1 group-title="HS体育赛事",桑托斯 vs 弗拉门戈 2-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4465845.m3u8?txSecret=5c8909abbd2251f6531f1fa0b2fbf639&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",巴拉纳竞技 vs 米内罗竞技 1-1 [解说]
+https://hello.ooo0ooo.top/live/4465805.m3u8
+#EXTINF:-1 group-title="HS体育赛事",巴拉纳竞技 vs 米内罗竞技 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4465805.m3u8?txSecret=34cf75a6cfa30eacf058fdc07a1c9fbe&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",弗鲁米嫩塞 vs 科里蒂巴 0-0 [解说]
+https://hello.ooo0ooo.top/live/4465789.m3u8
+#EXTINF:-1 group-title="HS体育赛事",弗鲁米嫩塞 vs 科里蒂巴 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4465789.m3u8?txSecret=c409d365bd3c1efe46da18511fa848f6&txTime=6AC98871
+#EXTINF:-1 group-title="HS体育赛事",帕尔梅拉斯 vs 巴伊亚 1-0 [解说]
+https://hello.ooo0ooo.top/live/4465870.m3u8
+#EXTINF:-1 group-title="HS体育赛事",帕尔梅拉斯 vs 巴伊亚 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4465870.m3u8?txSecret=3f5c47f2b1379b7249de758eaf3d995f&txTime=6AC98871
