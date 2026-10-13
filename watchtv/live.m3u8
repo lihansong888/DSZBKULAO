@@ -1,19 +1,47 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",萨尔瓦多女足 vs 巴拉圭女足 2-3 [解说]
-https://hello.ooo0ooo.top/live/4657087.m3u8
-#EXTINF:-1 group-title="HS体育赛事",萨尔瓦多女足 vs 巴拉圭女足 2-3 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4657087.m3u8?txSecret=9fcfa50a6ffe3f3a1370ebe37a905cec&txTime=6ACEFBE8
-#EXTINF:-1 group-title="HS体育赛事",金人 vs 淘金者 64-63 [解说]
-https://hello.ooo0ooo.top/live/3946473.m3u8
-#EXTINF:-1 group-title="HS体育赛事",金人 vs 淘金者 64-63 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3946473.m3u8?txSecret=553149bc5d05c6c3a3b09fe25e602a04&txTime=6ACEE5E0
-#EXTINF:-1 group-title="HS体育赛事",野狼 vs 草莓种植者 72-61 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3946475.m3u8?txSecret=800ca78e189489768dfa2b2992c1780e&txTime=6ACEFBE8
-#EXTINF:-1 group-title="HS体育赛事",蜜蜂 vs 圣徒 78-73 [解说]
-https://hello.ooo0ooo.top/live/3946477.m3u8
-#EXTINF:-1 group-title="HS体育赛事",蜜蜂 vs 圣徒 78-73 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3946477.m3u8?txSecret=6ad7e437110de9b6fb022d67ca15930f&txTime=6ACEFBE8
-#EXTINF:-1 group-title="HS体育赛事",矿工 vs 红魔鬼 74-66 [解说]
-https://hello.ooo0ooo.top/live/3946479.m3u8
-#EXTINF:-1 group-title="HS体育赛事",矿工 vs 红魔鬼 74-66 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3946479.m3u8?txSecret=eee05552a31771c8f9e641560e62d382&txTime=6ACEFBE8
+#EXTINF:-1 group-title="HS体育赛事",雅潘FK vs 布哈拉国立大学 0-0 [解说]
+https://hello.ooo0ooo.top/live/4525660.m3u8
+#EXTINF:-1 group-title="HS体育赛事",贝科博德冶金 vs 休尔坦古佐 1-0 [解说]
+https://hello.ooo0ooo.top/live/4525657.m3u8
+#EXTINF:-1 group-title="HS体育赛事",贝科博德冶金 vs 休尔坦古佐 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4525657.m3u8?txSecret=2d91bb6e997f68286e8b38b0c2f7f8e1&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",浦项铁人 vs 柔佛新山 0-1 [解说]
+https://hello.ooo0ooo.top/live/4621535.m3u8
+#EXTINF:-1 group-title="HS体育赛事",浦项铁人 vs 柔佛新山 0-1 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4621535.m3u8?txSecret=a20f0c3329ae08eaa2355b4f7d47c01b&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",京都不死鸟 vs 拉查武里 0-0 [解说]
+https://hello.ooo0ooo.top/live/4621547.m3u8
+#EXTINF:-1 group-title="HS体育赛事",京都不死鸟 vs 拉查武里 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4621547.m3u8?txSecret=cde541d8dc0421e06815e7c045a35ecb&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",上海海港 vs 大田市民 1-1 [解说]
+https://hello.ooo0ooo.top/live/4621467.m3u8
+#EXTINF:-1 group-title="HS体育赛事",上海海港 vs 大田市民 1-1 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4621467.m3u8?txSecret=ad374cb290b1896adad870a2ae6fd3ec&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",南美联合 vs 班加罗尔根源 2-0 [解说]
+https://hello.ooo0ooo.top/live/4657120.m3u8
+#EXTINF:-1 group-title="HS体育赛事",南美联合 vs 班加罗尔根源 2-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4657120.m3u8?txSecret=62a8178f17c1fa4995120e3a1490905d&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",班德尔马体育 vs 锡瓦斯 0-0 [解说]
+https://hello.ooo0ooo.top/live/4583577.m3u8
+#EXTINF:-1 group-title="HS体育赛事",班德尔马体育 vs 锡瓦斯 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4583577.m3u8?txSecret=bbc9f903483b44575a3168ccd6bbc80b&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",东京联合 vs 立川骰子 51-53 [解说]
+https://hello.ooo0ooo.top/live/3935163.m3u8
+#EXTINF:-1 group-title="HS体育赛事",东京联合 vs 立川骰子 51-53 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3935163.m3u8?txSecret=620b1b5b97632518e2fa816d3be0d30a&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",澳门黑骑士 vs 菲律宾电信TNT 87-142 [解说]
+https://hello.ooo0ooo.top/live/3925341.m3u8
+#EXTINF:-1 group-title="HS体育赛事",澳门黑骑士 vs 菲律宾电信TNT 87-142 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3925341.m3u8?txSecret=2d6702cfbc83bfac7ad7a9c61ab39f4c&txTime=6ACF6038
+#EXTINF:-1 group-title="HS体育赛事",马尼拉电气 vs 黑水博辛 26-25 [解说]
+https://hello.ooo0ooo.top/live/3925319.m3u8
+#EXTINF:-1 group-title="HS体育赛事",马尼拉电气 vs 黑水博辛 26-25 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3925319.m3u8?txSecret=9ff9074591923cb9af3a3eede893d8c6&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",波尔蒂芒人U23 vs 维塞乌U23 1-1 [解说]
+https://hello.ooo0ooo.top/live/4609507.m3u8
+#EXTINF:-1 group-title="HS体育赛事",波尔蒂芒人U23 vs 维塞乌U23 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4609507.m3u8?txSecret=f61aacf8b78a4814dc036763e5538145&txTime=6ACF6830
+#EXTINF:-1 group-title="HS体育赛事",安养赤红火箭 vs 高阳索诺天枪 74-72 [解说]
+https://hello.ooo0ooo.top/live/3933776.m3u8
+#EXTINF:-1 group-title="HS体育赛事",安养赤红火箭 vs 高阳索诺天枪 74-72 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3933776.m3u8?txSecret=41bafab0a3d9ed471c3daec67cda5808&txTime=6ACF6830
