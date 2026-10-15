@@ -1,9 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",马德拉斯工兵 vs 皇家班加罗尔 0-0 [解说]
-https://hello.ooo0ooo.top/live/4658290.m3u8
-#EXTINF:-1 group-title="HS体育赛事",马德拉斯工兵 vs 皇家班加罗尔 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4658290.m3u8?txSecret=fbb2550ae9b51b9196d97d72f8eb5619&txTime=6AD1B928
-#EXTINF:-1 group-title="HS体育赛事",猎人FC vs 克布多 0-0 [解说]
-https://hello.ooo0ooo.top/live/4644113.m3u8
-#EXTINF:-1 group-title="HS体育赛事",猎人FC vs 克布多 0-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4644113.m3u8?txSecret=c8b2ea97ec95f1d23c81390677ca201d&txTime=6AD1B928
+#EXTINF:-1 group-title="HS体育赛事",大连聚惺晟恒 vs 武汉联镇 0-1 [解说]
+https://hello.ooo0ooo.top/live/4655310.m3u8
+#EXTINF:-1 group-title="HS体育赛事",大连聚惺晟恒 vs 武汉联镇 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4655310.m3u8?txSecret=b216db48c353155dd2a45b14fd7c95b8&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",江原FC vs 金边皇冠 0-1 [解说]
+https://hello.ooo0ooo.top/live/4621387.m3u8
+#EXTINF:-1 group-title="HS体育赛事",江原FC vs 金边皇冠 0-1 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4621387.m3u8?txSecret=2f7a7280d0e87d1413d126a5ce655777&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",大埔 vs 狮城水手 0-1 [解说]
+https://hello.ooo0ooo.top/live/4621372.m3u8
+#EXTINF:-1 group-title="HS体育赛事",大埔 vs 狮城水手 0-1 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4621372.m3u8?txSecret=9509ed67b388f572441cac5fc569a8b5&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",特克尼克 vs 帕里克玛 0-1 [解说]
+https://hello.ooo0ooo.top/live/4658291.m3u8
+#EXTINF:-1 group-title="HS体育赛事",特克尼克 vs 帕里克玛 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4658291.m3u8?txSecret=7a52deac9362f418b6c205dfb815363a&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",FK阿雷斯 vs 奥杜斯基克 1-0 [解说]
+https://hello.ooo0ooo.top/live/4519559.m3u8
+#EXTINF:-1 group-title="HS体育赛事",FK阿雷斯 vs 奥杜斯基克 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4519559.m3u8?txSecret=025c43d99fb6e39e0329085b5107676e&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",阿斯塔纳B队 vs 叶利迈塞米B队 0-0 [解说]
+https://hello.ooo0ooo.top/live/4523606.m3u8
+#EXTINF:-1 group-title="HS体育赛事",杜保尔B队 vs 贾伊克 0-0 [解说]
+https://hello.ooo0ooo.top/live/4523607.m3u8
+#EXTINF:-1 group-title="HS体育赛事",杜保尔B队 vs 贾伊克 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4523607.m3u8?txSecret=73c5b36407eb8928bc1a7eedd5fbab2b&txTime=6AD20518
+#EXTINF:-1 group-title="HS体育赛事",匈牙利U16 vs 立陶宛U16 1-0 [解说]
+https://hello.ooo0ooo.top/live/4658707.m3u8
+#EXTINF:-1 group-title="HS体育赛事",西班牙U17 vs 以色列U17 1-0 [解说]
+https://hello.ooo0ooo.top/live/4552846.m3u8
+#EXTINF:-1 group-title="HS体育赛事",华川KSPO女足 vs 世宗体育女足 0-1 [解说]
+https://hello.ooo0ooo.top/live/4514762.m3u8
+#EXTINF:-1 group-title="HS体育赛事",华川KSPO女足 vs 世宗体育女足 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4514762.m3u8?txSecret=082dd4a54d6ddf143151dfce22175e43&txTime=6AD20339
+#EXTINF:-1 group-title="HS体育赛事",首尔三星雷电 vs 昌原LG猎隼 41-50 [解说]
+https://hello.ooo0ooo.top/live/3933653.m3u8
+#EXTINF:-1 group-title="HS体育赛事",首尔三星雷电 vs 昌原LG猎隼 41-50 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3933653.m3u8?txSecret=793e9a7bc9db205a22d2f3ca910548af&txTime=6AD20518
