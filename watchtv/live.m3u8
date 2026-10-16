@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",巴瑞库拉 vs 锡帕基拉老虎 2-2 [解说]
-https://hello.ooo0ooo.top/live/4596290.m3u8
-#EXTINF:-1 group-title="HS体育赛事",巴瑞库拉 vs 锡帕基拉老虎 2-2 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4596290.m3u8?txSecret=af752d116e91e23f37120dfc2e8078aa&txTime=6AD2AB81
-#EXTINF:-1 group-title="HS体育赛事",马达莱纳联 vs 云博独立 0-1 [解说]
-https://hello.ooo0ooo.top/live/4596292.m3u8
-#EXTINF:-1 group-title="HS体育赛事",马达莱纳联 vs 云博独立 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4596292.m3u8?txSecret=0d5d5cdb2bb8a54e7f71392b07580490&txTime=6AD2AB81
-#EXTINF:-1 group-title="HS体育赛事",利昂内斯 vs 帕特里奥坦斯 0-0 [解说]
-https://hello.ooo0ooo.top/live/4596295.m3u8
+#EXTINF:-1 group-title="HS体育赛事",尼克斯 vs 猛龙 66-71 [解说]
+https://hello.ooo0ooo.top/live/3931454.m3u8
+#EXTINF:-1 group-title="HS体育赛事",尼克斯 vs 猛龙 66-71 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931454.m3u8?txSecret=1eab82441249a80c4eb0a45f7dfacb0f&txTime=6AD2CA70
+#EXTINF:-1 group-title="HS体育赛事",火箭 vs 雷霆 33-17 [解说]
+https://hello.ooo0ooo.top/live/3931447.m3u8
+#EXTINF:-1 group-title="HS体育赛事",火箭 vs 雷霆 33-17 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931447.m3u8?txSecret=0d222d791b39bef744023a4d5283a108&txTime=6AD2CA70
+#EXTINF:-1 group-title="HS体育赛事",奎迪奥 vs 卡塔根纳 0-0 [解说]
+https://hello.ooo0ooo.top/live/4596288.m3u8
+#EXTINF:-1 group-title="HS体育赛事",奎迪奥 vs 卡塔根纳 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4596288.m3u8?txSecret=6f13cf4e229d14ebdca1d15e707725fc&txTime=6AD2CA70
+#EXTINF:-1 group-title="HS体育赛事",拉普拉塔大学生 vs 弗拉门戈 0-0 [解说]
+https://hello.ooo0ooo.top/live/4647588.m3u8
+#EXTINF:-1 group-title="HS体育赛事",拉普拉塔大学生 vs 弗拉门戈 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4647588.m3u8?txSecret=54d82021b31e1975382a0f5fcc811bc5&txTime=6AD2CA70
