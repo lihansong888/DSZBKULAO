@@ -1,5 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 科达古 1-0 [解说]
-https://hello.ooo0ooo.top/live/4658766.m3u8
-#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 科达古 1-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4658766.m3u8?txSecret=5c7353b52b2583e787d3de14b1839dc1&txTime=6AD31319
+#EXTINF:-1 group-title="HS体育赛事",上海 vs 深圳 14-16 [解说]
+https://hello.ooo0ooo.top/live/3941066.m3u8
+#EXTINF:-1 group-title="HS体育赛事",上海 vs 深圳 14-16 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3941066.m3u8?txSecret=0aaecb310a5551af1519d4f4093436de&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",河南队 vs 天津津门虎 0-0 [解说]
+https://hello.ooo0ooo.top/live/4498782.m3u8
+#EXTINF:-1 group-title="HS体育赛事",河南队 vs 天津津门虎 0-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4498782.m3u8?txSecret=a33611ac29a1fdcd3d950670641efc4f&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",奥博隆 vs 维勒斯 2-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4569694.m3u8?txSecret=c7b18f5a4f20d87414cf6f6942ea8b5e&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",FA共和国 vs 莫比乌兹奥林匹克 2-2 [解说]
+https://hello.ooo0ooo.top/live/4525624.m3u8
+#EXTINF:-1 group-title="HS体育赛事",FA共和国 vs 莫比乌兹奥林匹克 2-2 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4525624.m3u8?txSecret=d54b35863ed6ffd282154500d89b4038&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",莫斯科切尔塔诺沃青年队 vs 莫斯科中央陆军青年队 2-5 [解说]
+https://hello.ooo0ooo.top/live/4506629.m3u8
+#EXTINF:-1 group-title="HS体育赛事",莫斯科切尔塔诺沃青年队 vs 莫斯科中央陆军青年队 2-5 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4506629.m3u8?txSecret=18fe9aafaca15b41b2b16e391b08ad38&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",卡拉特B队 vs 埃基巴斯图兹 2-0 [解说]
+https://hello.ooo0ooo.top/live/4519560.m3u8
+#EXTINF:-1 group-title="HS体育赛事",卡拉特B队 vs 埃基巴斯图兹 2-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4519560.m3u8?txSecret=07947da0641c94f1ea121fe844f24931&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",拖雷斯 vs 卡斯比阿克套B队 1-0 [解说]
+https://hello.ooo0ooo.top/live/4523040.m3u8
+#EXTINF:-1 group-title="HS体育赛事",拖雷斯 vs 卡斯比阿克套B队 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4523040.m3u8?txSecret=31411b272593bb9f0e0872181c544b18&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",丹戎巴葛联 vs 后港联队 0-0 [解说]
+https://hello.ooo0ooo.top/live/4600605.m3u8
+#EXTINF:-1 group-title="HS体育赛事",丹戎巴葛联 vs 后港联队 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4600605.m3u8?txSecret=106b6ec0cfe1d3b62df3a6ac4bdde262&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",横滨海盗 vs 琉球黄金帝王 62-65 [解说]
+https://hello.ooo0ooo.top/live/3935149.m3u8
+#EXTINF:-1 group-title="HS体育赛事",横滨海盗 vs 琉球黄金帝王 62-65 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3935149.m3u8?txSecret=3924a0ceebb6d92ad75664fef81b6486&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",佐贺气球人 vs 北海道风神 80-95 [解说]
+https://hello.ooo0ooo.top/live/3935298.m3u8
+#EXTINF:-1 group-title="HS体育赛事",佐贺气球人 vs 北海道风神 80-95 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3935298.m3u8?txSecret=726d174f8468aa0dc8a240cbd36f5319&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",川崎雷霆勇者 vs 茨城机器人 56-63 [解说]
+https://hello.ooo0ooo.top/live/3935448.m3u8
+#EXTINF:-1 group-title="HS体育赛事",川崎雷霆勇者 vs 茨城机器人 56-63 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3935448.m3u8?txSecret=0429fb2b3e6bc794c136c06a5eeddb6c&txTime=6AD360E8
+#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 马尼拉电气 23-35 [解说]
+https://hello.ooo0ooo.top/live/3925338.m3u8
+#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 马尼拉电气 23-35 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3925338.m3u8?txSecret=31c1b189cb3ab07be9aa92357e632f39&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",同塔 vs 归仁联 3-1 [解说]
+https://hello.ooo0ooo.top/live/4639856.m3u8
+#EXTINF:-1 group-title="HS体育赛事",同塔 vs 归仁联 3-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4639856.m3u8?txSecret=37594781dc1ceba4631ec61f46fb0e77&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",沙马基 vs 巴库萨法 0-1 [解说]
+https://hello.ooo0ooo.top/live/4595625.m3u8
+#EXTINF:-1 group-title="HS体育赛事",沙马基 vs 巴库萨法 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4595625.m3u8?txSecret=91e48fdd60dbe22fbe75520785448faf&txTime=6AD36160
+#EXTINF:-1 group-title="HS体育赛事",高阳索诺天枪 vs 蔚山现代太阳神 93-79 [解说]
+https://hello.ooo0ooo.top/live/3933714.m3u8
+#EXTINF:-1 group-title="HS体育赛事",高阳索诺天枪 vs 蔚山现代太阳神 93-79 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3933714.m3u8?txSecret=32bb705609026c5362817b24f6d1208c&txTime=6AD36160
