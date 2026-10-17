@@ -1,25 +1,69 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",塞路 vs 塞罗拉尔戈 1-0 [解说]
-https://hello.ooo0ooo.top/live/4656813.m3u8
-#EXTINF:-1 group-title="HS体育赛事",塞路 vs 塞罗拉尔戈 1-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4656813.m3u8?txSecret=ce2d8d98429df8febbc69ca6fcc063fd&txTime=6AD3F940
-#EXTINF:-1 group-title="HS体育赛事",卡利博卡青年 vs 卡利竞技 0-0 [解说]
-https://hello.ooo0ooo.top/live/4596289.m3u8
-#EXTINF:-1 group-title="HS体育赛事",卡利博卡青年 vs 卡利竞技 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4596289.m3u8?txSecret=08ae1c96fec60ba8f45c98d463540671&txTime=6AD3F940
-#EXTINF:-1 group-title="HS体育赛事",雷科莱塔 vs 鲁毕奥 0-0 [解说]
-https://hello.ooo0ooo.top/live/4631209.m3u8
-#EXTINF:-1 group-title="HS体育赛事",雷科莱塔 vs 鲁毕奥 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4631209.m3u8?txSecret=65fe5ae18afe39c0fab3d4e01fff59a8&txTime=6AD3F940
-#EXTINF:-1 group-title="HS体育赛事",庞特普雷塔 vs 戈亚尼亚竞技 0-0 [解说]
-https://hello.ooo0ooo.top/live/4494770.m3u8
-#EXTINF:-1 group-title="HS体育赛事",庞特普雷塔 vs 戈亚尼亚竞技 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4494770.m3u8?txSecret=f110d95afbad2d6f7df88818af2f6030&txTime=6AD3F940
-#EXTINF:-1 group-title="HS体育赛事",亚特兰大联B队 vs 康涅狄格州联合FC 0-1 [解说]
-https://hello.ooo0ooo.top/live/4656276.m3u8
-#EXTINF:-1 group-title="HS体育赛事",亚特兰大联B队 vs 康涅狄格州联合FC 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4656276.m3u8?txSecret=2538068b93d68da73c33a33477764544&txTime=6AD3F940
-#EXTINF:-1 group-title="HS体育赛事",国防与司法 vs 科尔多瓦学院 0-1 [解说]
-https://hello.ooo0ooo.top/live/4539810.m3u8
-#EXTINF:-1 group-title="HS体育赛事",国防与司法 vs 科尔多瓦学院 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4539810.m3u8?txSecret=9f8a6c56edc18eac4689273cf341f36a&txTime=6AD3F940
+#EXTINF:-1 group-title="HS体育赛事",魔术 vs 热火 116-99 [解说]
+https://hello.ooo0ooo.top/live/3925706.m3u8
+#EXTINF:-1 group-title="HS体育赛事",魔术 vs 热火 116-99 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925706.m3u8?txSecret=61e48a631eb93ef4a311884061cca570&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",76人 vs 凯尔特人 100-97 [解说]
+https://hello.ooo0ooo.top/live/3925707.m3u8
+#EXTINF:-1 group-title="HS体育赛事",76人 vs 凯尔特人 100-97 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925707.m3u8?txSecret=9cf03bcc3f91fdf16ca72c73c9ed6715&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",活塞 vs 猛龙 94-87 [解说]
+https://hello.ooo0ooo.top/live/3931455.m3u8
+#EXTINF:-1 group-title="HS体育赛事",活塞 vs 猛龙 94-87 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931455.m3u8?txSecret=215c563337864ddfae931e0c34cbca3e&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",步行者 vs 雄鹿 104-110 [解说]
+https://hello.ooo0ooo.top/live/3944618.m3u8
+#EXTINF:-1 group-title="HS体育赛事",步行者 vs 雄鹿 104-110 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3944618.m3u8?txSecret=15a99032a925c3fe95dc730068eebd49&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",独行侠 vs 老鹰 51-71 [解说]
+https://hello.ooo0ooo.top/live/3925708.m3u8
+#EXTINF:-1 group-title="HS体育赛事",独行侠 vs 老鹰 51-71 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925708.m3u8?txSecret=1b13e205acdb97cfc06d20ee9c5537ed&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",马刺 vs 国王 67-34 [解说]
+https://hello.ooo0ooo.top/live/3925717.m3u8
+#EXTINF:-1 group-title="HS体育赛事",马刺 vs 国王 67-34 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925717.m3u8?txSecret=1018724b5fdce3e1ed1629119d899db5&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",灰熊 vs 黄蜂 50-38 [解说]
+https://hello.ooo0ooo.top/live/3926126.m3u8
+#EXTINF:-1 group-title="HS体育赛事",灰熊 vs 黄蜂 50-38 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3926126.m3u8?txSecret=c36b5589feb84091719f6555b56d7721&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",鹈鹕 vs 奇才 56-51 [解说]
+https://hello.ooo0ooo.top/live/3931443.m3u8
+#EXTINF:-1 group-title="HS体育赛事",鹈鹕 vs 奇才 56-51 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931443.m3u8?txSecret=42c8de4c27d7969e34c267b10aa87489&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",公牛 vs 森林狼 54-54 [解说]
+https://hello.ooo0ooo.top/live/3931452.m3u8
+#EXTINF:-1 group-title="HS体育赛事",公牛 vs 森林狼 54-54 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3931452.m3u8?txSecret=30f092920b15f212c2180679b6980944&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",瓜达卢佩 vs 卡里阿利 0-0 [解说]
+https://hello.ooo0ooo.top/live/4594549.m3u8
+#EXTINF:-1 group-title="HS体育赛事",瓜达卢佩 vs 卡里阿利 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4594549.m3u8?txSecret=5e0943a5d15d18a9d0de7252ea2a1ec5&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",UAT走鹃 vs 黄金河虎 0-0 [解说]
+https://hello.ooo0ooo.top/live/4578860.m3u8
+#EXTINF:-1 group-title="HS体育赛事",UAT走鹃 vs 黄金河虎 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4578860.m3u8?txSecret=c1740e76e3fc8db8fcb20c1e8361081e&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",内卡萨 vs 阿特拉斯 0-1 [解说]
+https://hello.ooo0ooo.top/live/4553894.m3u8
+#EXTINF:-1 group-title="HS体育赛事",内卡萨 vs 阿特拉斯 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4553894.m3u8?txSecret=6a1dc33eeb771c8a5af58559b92ed737&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",累西腓体育 vs 福塔雷萨 0-1 [解说]
+https://hello.ooo0ooo.top/live/4494772.m3u8
+#EXTINF:-1 group-title="HS体育赛事",累西腓体育 vs 福塔雷萨 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4494772.m3u8?txSecret=db43111f3b7e5c978398d2fafa6d727f&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",波士顿传奇女足 vs 路易斯维尔竞赛女足 0-0 [解说]
+https://hello.ooo0ooo.top/live/4511091.m3u8
+#EXTINF:-1 group-title="HS体育赛事",波士顿传奇女足 vs 路易斯维尔竞赛女足 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4511091.m3u8?txSecret=f54189f7285fabf99c44e2a3639bfd9a&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",拉费尔拿 vs 基尔梅斯 1-0 [解说]
+https://hello.ooo0ooo.top/live/4471494.m3u8
+#EXTINF:-1 group-title="HS体育赛事",拉费尔拿 vs 基尔梅斯 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4471494.m3u8?txSecret=d52bbdb625c0f29f76528fc7e73f9258&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",迪罗甘拿斯亚 vs 阿特兰大竞技 0-0 [解说]
+https://hello.ooo0ooo.top/live/4471501.m3u8
+#EXTINF:-1 group-title="HS体育赛事",迪罗甘拿斯亚 vs 阿特兰大竞技 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4471501.m3u8?txSecret=020a0d1ea8ec898f62fe6dcdff2a3183&txTime=6AD41C68
+#EXTINF:-1 group-title="HS体育赛事",博卡青年 vs 塔勒瑞斯 1-1 [解说]
+https://hello.ooo0ooo.top/live/4539809.m3u8
+#EXTINF:-1 group-title="HS体育赛事",博卡青年 vs 塔勒瑞斯 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4539809.m3u8?txSecret=a17ac2ded502c251813aa68aa8278943&txTime=6AD41C68
