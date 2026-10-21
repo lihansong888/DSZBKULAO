@@ -1,13 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",马刺 vs 雷霆 87-95 [解说]
-https://hello.ooo0ooo.top/live/3931458.m3u8
-#EXTINF:-1 group-title="HS体育赛事",马刺 vs 雷霆 87-95 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-2-3931458.m3u8?txSecret=8e1d342b9958ebcbf90fc81818bd3a2a&txTime=6AD98A40
-#EXTINF:-1 group-title="HS体育赛事",老虎大学 vs 莱昂 0-1 [解说]
-https://hello.ooo0ooo.top/live/4553906.m3u8
-#EXTINF:-1 group-title="HS体育赛事",老虎大学 vs 莱昂 0-1 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4553906.m3u8?txSecret=8a9a73a8c9a652ad63e7e85eb3febf27&txTime=6AD98A40
-#EXTINF:-1 group-title="HS体育赛事",神户雌狮女足 vs 千叶市原女足 0-1 [解说]
-https://hello.ooo0ooo.top/live/4602970.m3u8
-#EXTINF:-1 group-title="HS体育赛事",神户雌狮女足 vs 千叶市原女足 0-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4602970.m3u8?txSecret=f234174fdcc4f6d18f15354725c683fe&txTime=6AD98A40
+#EXTINF:-1 group-title="HS体育赛事",加素卡FC vs 掸邦联 0-0 [解说]
+https://hello.ooo0ooo.top/live/4646616.m3u8
+#EXTINF:-1 group-title="HS体育赛事",加素卡FC vs 掸邦联 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4646616.m3u8?txSecret=c2abcda42df2c84300c55afc411a8a71&txTime=6AD9D900
+#EXTINF:-1 group-title="HS体育赛事",巴厘联 vs 加鲁达亚克萨 1-0 [解说]
+https://hello.ooo0ooo.top/live/4614384.m3u8
+#EXTINF:-1 group-title="HS体育赛事",巴厘联 vs 加鲁达亚克萨 1-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4614384.m3u8?txSecret=0ee850a3e628042b062105fe87ba7613&txTime=6AD9D900
+#EXTINF:-1 group-title="HS体育赛事",野岛斯特拉女足 vs 新潟天鹅女足 0-0 [解说]
+https://hello.ooo0ooo.top/live/4602955.m3u8
+#EXTINF:-1 group-title="HS体育赛事",野岛斯特拉女足 vs 新潟天鹅女足 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4602955.m3u8?txSecret=5fd682fe1e380a6ce0f6d108d16502b9&txTime=6AD9D900
+#EXTINF:-1 group-title="HS体育赛事",西哈努克 vs 特本克蒙 1-1 [解说]
+https://hello.ooo0ooo.top/live/4660680.m3u8
+#EXTINF:-1 group-title="HS体育赛事",西哈努克 vs 特本克蒙 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4660680.m3u8?txSecret=2c2b863c403f6f894262195e4c7e0d3b&txTime=6AD9D900
+#EXTINF:-1 group-title="HS体育赛事",高岗 vs 巴坦博 0-0 [解说]
+https://hello.ooo0ooo.top/live/4660681.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塔斯马尼亚跳伞蚁 vs 布里斯班子弹 68-51 [解说]
+https://hello.ooo0ooo.top/live/3925987.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塔斯马尼亚跳伞蚁 vs 布里斯班子弹 68-51 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-2-3925987.m3u8?txSecret=4b1b1d14d2a4ab5dcb594c7225fa8507&txTime=6AD9D900
+#EXTINF:-1 group-title="HS体育赛事",胡志明市STP食品 vs 雄王安江 0-2 [解说]
+https://hello.ooo0ooo.top/live/4660433.m3u8
+#EXTINF:-1 group-title="HS体育赛事",平定 vs 河内公牛 0-0 [解说]
+https://hello.ooo0ooo.top/live/4660432.m3u8
+#EXTINF:-1 group-title="HS体育赛事",生力啤 vs 公路勇士 26-29 [解说]
+https://hello.ooo0ooo.top/live/3945827.m3u8
+#EXTINF:-1 group-title="HS体育赛事",生力啤 vs 公路勇士 26-29 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3945827.m3u8?txSecret=6a9eee995606521a8f220c73bb0ab17f&txTime=6AD9D900
