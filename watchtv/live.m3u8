@@ -1,17 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",雷霆 vs 掘金 84-72 [解说]
-https://hello.ooo0ooo.top/live/3931241.m3u8
-#EXTINF:-1 group-title="HS体育赛事",雷霆 vs 掘金 84-72 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-2-3931241.m3u8?txSecret=d556f2f1dfab898288416149ac82fe32&txTime=6ADC2EA8
-#EXTINF:-1 group-title="HS体育赛事",野狼 vs 黑豹 84-93 [解说]
-https://hello.ooo0ooo.top/live/3947757.m3u8
-#EXTINF:-1 group-title="HS体育赛事",野狼 vs 黑豹 84-93 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3947757.m3u8?txSecret=a0fb1dde58ef634072a003cc2e1aa971&txTime=6ADC2EA8
-#EXTINF:-1 group-title="HS体育赛事",矿工 vs 太空人 72-81 [解说]
-https://hello.ooo0ooo.top/live/3947760.m3u8
-#EXTINF:-1 group-title="HS体育赛事",矿工 vs 太空人 72-81 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3947760.m3u8?txSecret=340e4500b9b6bff3fe4795ba37a28de9&txTime=6ADC2CC9
-#EXTINF:-1 group-title="HS体育赛事",蜜蜂 vs 太阳 31-48 [解说]
-https://hello.ooo0ooo.top/live/3947755.m3u8
-#EXTINF:-1 group-title="HS体育赛事",蜜蜂 vs 太阳 31-48 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3947755.m3u8?txSecret=a77ba0eab43fc74f782304ef3fd305e0&txTime=6ADC2EA8
+#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 南美联合 0-0 [解说]
+https://hello.ooo0ooo.top/live/4659911.m3u8
+#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 南美联合 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4659911.m3u8?txSecret=ea72902a055a0da18c7a214af0d66cd7&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",兄弟联盟 vs 阿巴哈尼 1-0 [解说]
+https://hello.ooo0ooo.top/live/4647017.m3u8
+#EXTINF:-1 group-title="HS体育赛事",兄弟联盟 vs 阿巴哈尼 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4647017.m3u8?txSecret=0e96d478f05d35af03876588c0a773fa&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",法基拉普尔年轻人 vs MFS拉汉马特 1-0 [解说]
+https://hello.ooo0ooo.top/live/4647018.m3u8
+#EXTINF:-1 group-title="HS体育赛事",法基拉普尔年轻人 vs MFS拉汉马特 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4647018.m3u8?txSecret=f45eb0391a9e45d7cdadf7972a30c254&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",悉尼火焰女篮 vs UC首都女篮 67-58 [解说]
+https://hello.ooo0ooo.top/live/3925764.m3u8
+#EXTINF:-1 group-title="HS体育赛事",悉尼火焰女篮 vs UC首都女篮 67-58 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3925764.m3u8?txSecret=691bc953309cffebba23bf5c88f7fc51&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",布里斯班狮吼 vs 珀斯光荣 1-0 [解说]
+https://hello.ooo0ooo.top/live/4590408.m3u8
+#EXTINF:-1 group-title="HS体育赛事",布里斯班狮吼 vs 珀斯光荣 1-0 [原声]
+https://pul-tenm.gkykp.com/live/hd-en-1-4590408.m3u8?txSecret=e27c633c2d730ad61171c501784c2683&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 伊拉斯图阴阳天 27-24 [解说]
+https://hello.ooo0ooo.top/live/3925295.m3u8
+#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 伊拉斯图阴阳天 27-24 [原声]
+https://pul-tenm.gkykp.com/live/sd-2-3925295.m3u8?txSecret=fc3d500c7d5ea2758b566920edf8a42a&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",胡志明市B队女足 vs 太原T&T女足 0-3 [解说]
+https://hello.ooo0ooo.top/live/4552823.m3u8
+#EXTINF:-1 group-title="HS体育赛事",胡志明市B队女足 vs 太原T&T女足 0-3 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4552823.m3u8?txSecret=29201d944dc9bf19259b64c94c4180d3&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",越南煤矿女足 vs 河内女足 1-1 [解说]
+https://hello.ooo0ooo.top/live/4552825.m3u8
+#EXTINF:-1 group-title="HS体育赛事",越南煤矿女足 vs 河内女足 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4552825.m3u8?txSecret=8d5b98e9946f0591bb7cb911527295a8&txTime=6ADC7B10
