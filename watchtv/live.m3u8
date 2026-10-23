@@ -1,33 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 南美联合 0-0 [解说]
-https://hello.ooo0ooo.top/live/4659911.m3u8
-#EXTINF:-1 group-title="HS体育赛事",斯图拉德 vs 南美联合 0-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4659911.m3u8?txSecret=ea72902a055a0da18c7a214af0d66cd7&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",兄弟联盟 vs 阿巴哈尼 1-0 [解说]
-https://hello.ooo0ooo.top/live/4647017.m3u8
-#EXTINF:-1 group-title="HS体育赛事",兄弟联盟 vs 阿巴哈尼 1-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4647017.m3u8?txSecret=0e96d478f05d35af03876588c0a773fa&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",法基拉普尔年轻人 vs MFS拉汉马特 1-0 [解说]
-https://hello.ooo0ooo.top/live/4647018.m3u8
-#EXTINF:-1 group-title="HS体育赛事",法基拉普尔年轻人 vs MFS拉汉马特 1-0 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4647018.m3u8?txSecret=f45eb0391a9e45d7cdadf7972a30c254&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",悉尼火焰女篮 vs UC首都女篮 67-58 [解说]
-https://hello.ooo0ooo.top/live/3925764.m3u8
-#EXTINF:-1 group-title="HS体育赛事",悉尼火焰女篮 vs UC首都女篮 67-58 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3925764.m3u8?txSecret=691bc953309cffebba23bf5c88f7fc51&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",布里斯班狮吼 vs 珀斯光荣 1-0 [解说]
-https://hello.ooo0ooo.top/live/4590408.m3u8
-#EXTINF:-1 group-title="HS体育赛事",布里斯班狮吼 vs 珀斯光荣 1-0 [原声]
-https://pul-tenm.gkykp.com/live/hd-en-1-4590408.m3u8?txSecret=e27c633c2d730ad61171c501784c2683&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 伊拉斯图阴阳天 27-24 [解说]
-https://hello.ooo0ooo.top/live/3925295.m3u8
-#EXTINF:-1 group-title="HS体育赛事",凤凰燃料大师 vs 伊拉斯图阴阳天 27-24 [原声]
-https://pul-tenm.gkykp.com/live/sd-2-3925295.m3u8?txSecret=fc3d500c7d5ea2758b566920edf8a42a&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",胡志明市B队女足 vs 太原T&T女足 0-3 [解说]
-https://hello.ooo0ooo.top/live/4552823.m3u8
-#EXTINF:-1 group-title="HS体育赛事",胡志明市B队女足 vs 太原T&T女足 0-3 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4552823.m3u8?txSecret=29201d944dc9bf19259b64c94c4180d3&txTime=6ADC7B10
-#EXTINF:-1 group-title="HS体育赛事",越南煤矿女足 vs 河内女足 1-1 [解说]
-https://hello.ooo0ooo.top/live/4552825.m3u8
-#EXTINF:-1 group-title="HS体育赛事",越南煤矿女足 vs 河内女足 1-1 [原声]
-https://pul-tenm.gkykp.com/live/sd-1-4552825.m3u8?txSecret=8d5b98e9946f0591bb7cb911527295a8&txTime=6ADC7B10
+#EXTINF:-1 group-title="HS体育赛事",布哈拉 vs 特尔梅兹 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4488173.m3u8?txSecret=8085c269f1311508c950e32d2153484c&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",塔什干棉农 vs 费尔干纳石油工人 1-0 [解说]
+https://hello.ooo0ooo.top/live/4488177.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塔什干棉农 vs 费尔干纳石油工人 1-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4488177.m3u8?txSecret=59b5bda62ad2ece2b52e5a35f9abeca7&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",富通FC vs 雷加塔吉克冶铝厂 0-1 [解说]
+https://hello.ooo0ooo.top/live/4636707.m3u8
+#EXTINF:-1 group-title="HS体育赛事",富通FC vs 雷加塔吉克冶铝厂 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4636707.m3u8?txSecret=d9fef7cece92e37f5a511e71cfb83a6c&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",杜尚别独立 vs 霍姆斯救赎 0-0 [解说]
+https://hello.ooo0ooo.top/live/4636708.m3u8
+#EXTINF:-1 group-title="HS体育赛事",杜尚别独立 vs 霍姆斯救赎 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4636708.m3u8?txSecret=9d4221f45271100b61a2a78268c26157&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",亚特兰大U20 vs 拉齐奥U20 1-1 [解说]
+https://hello.ooo0ooo.top/live/4570710.m3u8
+#EXTINF:-1 group-title="HS体育赛事",比斯特里察 vs 比列 2-1 [解说]
+https://hello.ooo0ooo.top/live/4655106.m3u8
+#EXTINF:-1 group-title="HS体育赛事",比斯特里察 vs 比列 2-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4655106.m3u8?txSecret=c543fe444b792e02cfb51fa838482210&txTime=6ADCADB1
+#EXTINF:-1 group-title="HS体育赛事",斯帕里 vs 加格拉 0-0 [解说]
+https://hello.ooo0ooo.top/live/4479616.m3u8
+#EXTINF:-1 group-title="HS体育赛事",斯帕里 vs 加格拉 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4479616.m3u8?txSecret=06e7702e3ed269c5e8806c149eaffc89&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",费萨里 vs 利雅得胜利 0-1 [解说]
+https://hello.ooo0ooo.top/live/4599631.m3u8
+#EXTINF:-1 group-title="HS体育赛事",费萨里 vs 利雅得胜利 0-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4599631.m3u8?txSecret=8ba932b8a46045965f67245fb18e7b1b&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",艾沙尔特 vs 连姆沙 0-0 [解说]
+https://hello.ooo0ooo.top/live/4654225.m3u8
+#EXTINF:-1 group-title="HS体育赛事",艾沙尔特 vs 连姆沙 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4654225.m3u8?txSecret=6800daac5c64f7597add928c023e3aac&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",布拉加U23 vs 本菲卡U23 1-1 [解说]
+https://hello.ooo0ooo.top/live/4609517.m3u8
+#EXTINF:-1 group-title="HS体育赛事",布拉加U23 vs 本菲卡U23 1-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4609517.m3u8?txSecret=cb0bb3a9c311e8196c685e62dc906b7e&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",阿尔富伊拉 vs 阿布扎比统一 0-0 [解说]
+https://hello.ooo0ooo.top/live/4657095.m3u8
+#EXTINF:-1 group-title="HS体育赛事",阿尔富伊拉 vs 阿布扎比统一 0-0 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4657095.m3u8?txSecret=3c1abde7dc81009ae1e320443cfa90aa&txTime=6ADCBF81
+#EXTINF:-1 group-title="HS体育赛事",雪州 vs 古晋城 2-1 [解说]
+https://hello.ooo0ooo.top/live/4660455.m3u8
+#EXTINF:-1 group-title="HS体育赛事",雪州 vs 古晋城 2-1 [原声]
+https://pul-tenm.gkykp.com/live/sd-1-4660455.m3u8?txSecret=2bdd92e3504d11c0e50c8aa65d3476b9&txTime=6ADCBF81
