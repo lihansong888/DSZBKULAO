@@ -1,145 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",新西兰女联 北卡胡女篮 vs 常轮皇后女篮 - 直播7
-https://hello.ooo0ooo.top/live/3938276.m3u8
-#EXTINF:-1 group-title="HS体育赛事",新西兰女联 北卡胡女篮 vs 常轮皇后女篮 - 原声22
-https://pul-tenm.gkykp.com/live/sd-2-3938276.m3u8?txSecret=3b1267a9503a3d329020a5ecd4b7db37&txTime=6ADEB6F0
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 冈山三环 vs 德岛甘巴罗斯 - 原声43
-https://pul-tenm.gkykp.com/live/sd-2-3934442.m3u8?txSecret=c1b1d0f6df7d7cfcfaa4c2200b90d9ee&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 山形飞龙 vs 越谷阿尔法 - 原声16
-https://pul-tenm.gkykp.com/live/sd-2-3934294.m3u8?txSecret=7c23b9b43c081bfd183de3f8a486868d&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 新潟天鹅 vs 岩手大公牛 - 直播59
-https://hello.ooo0ooo.top/live/3935545.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 新潟天鹅 vs 岩手大公牛 - 原声46
-https://pul-tenm.gkykp.com/live/sd-2-3935545.m3u8?txSecret=85f1106621fe62ffcb96e3fdc9a112f6&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 福井吹风 vs 埼玉野马 - 直播63
-https://hello.ooo0ooo.top/live/3934324.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 福井吹风 vs 埼玉野马 - 原声42
-https://pul-tenm.gkykp.com/live/sd-2-3934324.m3u8?txSecret=338248553ff187a8002e1b75e299a9d3&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 立川骰子 vs 岐阜猛扑 - 直播57
-https://hello.ooo0ooo.top/live/3935246.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 立川骰子 vs 岐阜猛扑 - 原声44
-https://pul-tenm.gkykp.com/live/sd-2-3935246.m3u8?txSecret=7f46eafdea489cd920edaaab270e660a&txTime=6ADEE211
+#EXTINF:-1 group-title="HS体育赛事",中U21 上海申花U20 vs 北京国安U20 - 直播44
+https://hello.ooo0ooo.top/live/4640427.m3u8
+#EXTINF:-1 group-title="HS体育赛事",中U21 上海申花U20 vs 北京国安U20 - 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4640427.m3u8?txSecret=b010c08c9c0600f3b4211d47c0fdff2a&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",中乙 湖北青年星 vs 上海赛更达 - 直播5
+https://hello.ooo0ooo.top/live/4640214.m3u8
+#EXTINF:-1 group-title="HS体育赛事",中乙 湖北青年星 vs 上海赛更达 - 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4640214.m3u8?txSecret=118e365db9f8389b5306d450515eff24&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",亚美杯 米卡 vs 阿拉拉特 - 直播54
+https://hello.ooo0ooo.top/live/4650953.m3u8
+#EXTINF:-1 group-title="HS体育赛事",亚美杯 米卡 vs 阿拉拉特 - 原声16
+https://pul-tenm.gkykp.com/live/sd-1-4650953.m3u8?txSecret=3b081311f03f7b81c15befbad766eaa9&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",俄甲 车里雅宾斯克 vs 乌拉尔 - 直播8
+https://hello.ooo0ooo.top/live/4576537.m3u8
+#EXTINF:-1 group-title="HS体育赛事",俄甲 车里雅宾斯克 vs 乌拉尔 - 原声8
+https://pul-tenm.gkykp.com/live/sd-1-4576537.m3u8?txSecret=d37f1e0e5f2f1a151d20a76efabd5aff&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",印尼甲 培斯塔坦格朗 vs 巴厘联 - 直播3
+https://hello.ooo0ooo.top/live/4614393.m3u8
+#EXTINF:-1 group-title="HS体育赛事",印尼甲 培斯塔坦格朗 vs 巴厘联 - 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4614393.m3u8?txSecret=44e8a387e640f65515b8dfd7e572fbab&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",印尼甲 阿雷马 vs 德瓦 - 直播2
+https://hello.ooo0ooo.top/live/4614392.m3u8
+#EXTINF:-1 group-title="HS体育赛事",印尼甲 阿雷马 vs 德瓦 - 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4614392.m3u8?txSecret=a3c7acaa8cdcc1980dac18257dcd8a72&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",哈萨超 阿勒泰瑟美 vs 叶利迈塞米 - 直播7
+https://hello.ooo0ooo.top/live/4645825.m3u8
+#EXTINF:-1 group-title="HS体育赛事",哈萨超 阿勒泰瑟美 vs 叶利迈塞米 - 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4645825.m3u8?txSecret=46b0d0ad8c94d144d167ac2393c92f0d&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",土篮超 安纳托利亚艾菲斯 vs 科尔菲兹 - 直播73
+https://hello.ooo0ooo.top/live/3929977.m3u8
+#EXTINF:-1 group-title="HS体育赛事",土篮超 安纳托利亚艾菲斯 vs 科尔菲兹 - 原声18
+https://pul-tenm.gkykp.com/live/sd-2-3929977.m3u8?txSecret=da6944f983d8114b21e6f0227fca88a7&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",意青联甲 卡利亚里U20 vs 科莫U19 - 直播76
+https://hello.ooo0ooo.top/live/4570712.m3u8
+#EXTINF:-1 group-title="HS体育赛事",意青联甲 卡利亚里U20 vs 科莫U19 - 原声21
+https://pul-tenm.gkykp.com/live/sd-1-4570712.m3u8?txSecret=2cb02b6ac8eecb346445495c0bc327cb&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",斯伐甲 布拉迪斯拉发B队 vs 国际巴迪斯拉华 - 直播75
+https://hello.ooo0ooo.top/live/4592059.m3u8
+#EXTINF:-1 group-title="HS体育赛事",斯伐甲 布拉迪斯拉发B队 vs 国际巴迪斯拉华 - 原声19
+https://pul-tenm.gkykp.com/live/sd-1-4592059.m3u8?txSecret=fc6af5b58c2621ba7dd61a97df8702cc&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",日篮B1 东京太阳摇滚 vs 名古屋钻石海豚 - 直播53
+https://hello.ooo0ooo.top/live/3934845.m3u8
+#EXTINF:-1 group-title="HS体育赛事",日篮B1 东京太阳摇滚 vs 名古屋钻石海豚 - 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3934845.m3u8?txSecret=1cd6533f652cef02e628b2f2648e9850&txTime=6ADF2608
 #EXTINF:-1 group-title="HS体育赛事",日篮B2 静冈顶点 vs 爱媛维京人 - 直播58
 https://hello.ooo0ooo.top/live/3935395.m3u8
 #EXTINF:-1 group-title="HS体育赛事",日篮B2 静冈顶点 vs 爱媛维京人 - 原声45
-https://pul-tenm.gkykp.com/live/sd-2-3935395.m3u8?txSecret=8a0fb329fe8f50bc003e5400bdf73cb7&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 香川五箭 vs 横滨卓越 - 直播60
-https://hello.ooo0ooo.top/live/3934174.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 香川五箭 vs 横滨卓越 - 原声14
-https://pul-tenm.gkykp.com/live/sd-2-3934174.m3u8?txSecret=adb4fb4a2e39924f6799b3edf46a9c61&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 鹿儿岛列布尼斯 vs 金泽武士团 - 直播55
-https://hello.ooo0ooo.top/live/3934472.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日篮B2 鹿儿岛列布尼斯 vs 金泽武士团 - 原声34
-https://pul-tenm.gkykp.com/live/sd-2-3934472.m3u8?txSecret=1c135cd53a8154b90c2cc01d4eef512a&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职丙 北九州向日葵 vs 长野帕塞罗 - 直播38
-https://hello.ooo0ooo.top/live/4556093.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职丙 北九州向日葵 vs 长野帕塞罗 - 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4556093.m3u8?txSecret=88f244eb196a20fb15b7c15b91f4ca0d&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职丙 松本山雅 vs 山口雷法 - 直播41
-https://hello.ooo0ooo.top/live/4556102.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职丙 松本山雅 vs 山口雷法 - 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4556102.m3u8?txSecret=a2c4fb4a975d4d5e91e27945d888e51c&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职丙 滋贺湖王 vs 金泽共进 - 直播48
-https://hello.ooo0ooo.top/live/4556071.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职丙 滋贺湖王 vs 金泽共进 - 原声19
-https://pul-tenm.gkykp.com/live/sd-1-4556071.m3u8?txSecret=9ee8580101870e5d6ca3b81a6f184301&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职丙 熊本深红 vs FC岐阜 - 直播21
-https://hello.ooo0ooo.top/live/4556059.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职丙 熊本深红 vs FC岐阜 - 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4556059.m3u8?txSecret=cf087153f420066f784581b9a1034d66&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职丙 鸟取飞翔 vs 高知联合 - 直播22
-https://hello.ooo0ooo.top/live/4556060.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职丙 鸟取飞翔 vs 高知联合 - 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4556060.m3u8?txSecret=4fe7ffd284b45bb2e5634193f325ab1d&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 大分三神 vs 甲府风林 - 直播29
-https://hello.ooo0ooo.top/live/4555693.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 大分三神 vs 甲府风林 - 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4555693.m3u8?txSecret=ea1c64ecdcda6005ab544cc09d16358b&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 富山胜利 vs 札幌冈萨多 - 直播31
-https://hello.ooo0ooo.top/live/4555733.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 富山胜利 vs 札幌冈萨多 - 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4555733.m3u8?txSecret=64ce1f809cde0a6c0ecd1c14a5350327&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 山形山神 vs 宫崎棒牛鸟 - 直播28
-https://hello.ooo0ooo.top/live/4555688.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 山形山神 vs 宫崎棒牛鸟 - 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4555688.m3u8?txSecret=4267cd8a258253010681e611efba83b3&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 新潟天鹅 vs 仙台七夕 - 直播30
-https://hello.ooo0ooo.top/live/4555710.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 新潟天鹅 vs 仙台七夕 - 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4555710.m3u8?txSecret=f9074e219011106f2b95b332a32d140a&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 秋田蓝闪电 vs FC今治 - 直播27
-https://hello.ooo0ooo.top/live/4555677.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 秋田蓝闪电 vs FC今治 - 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4555677.m3u8?txSecret=b7ecac7f936bc7bbc59c49c722193568&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职乙 鸟栖砂岩 vs 八户于南乡 - 直播32
-https://hello.ooo0ooo.top/live/4555736.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职乙 鸟栖砂岩 vs 八户于南乡 - 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4555736.m3u8?txSecret=4d38114d2be443ab95396cfce727c8d7&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 伊贺女忍者女足 vs 日体大女足 - 直播4
-https://hello.ooo0ooo.top/live/4510894.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 伊贺女忍者女足 vs 日体大女足 - 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4510894.m3u8?txSecret=de705f69f2dd00561d2845492c9bab91&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 播磨阿尔比恩女足 vs 横滨海鸥女足 - 直播3
-https://hello.ooo0ooo.top/live/4510893.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 播磨阿尔比恩女足 vs 横滨海鸥女足 - 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4510893.m3u8?txSecret=2dd378854910256c7f0a668c80c7c072&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 汤乡贝勒女足 vs NGU名古屋女足 - 直播10
-https://hello.ooo0ooo.top/live/4510896.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 汤乡贝勒女足 vs NGU名古屋女足 - 原声11
-https://pul-tenm.gkykp.com/live/sd-1-4510896.m3u8?txSecret=f3e966945bbfa37c580587de492cc25e&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 爱媛FC女足 vs 世田谷挑战女足 - 直播26
-https://hello.ooo0ooo.top/live/4510892.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 爱媛FC女足 vs 世田谷挑战女足 - 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4510892.m3u8?txSecret=42a68e8c54feb3283296fc8c2673dbde&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 维亚马特拉斯宫崎女足 vs 虎鲸鸭川女足 - 直播5
-https://hello.ooo0ooo.top/live/4510895.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 维亚马特拉斯宫崎女足 vs 虎鲸鸭川女足 - 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4510895.m3u8?txSecret=62a6c20c316c4badd781a8d1e139f83d&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 静冈产大女足 vs VONDS市原女足 - 直播20
-https://hello.ooo0ooo.top/live/4510897.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职女甲 静冈产大女足 vs VONDS市原女足 - 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4510897.m3u8?txSecret=d09bf6fe76b84b5a42f56a8364b72743&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日职联 名古屋鲸鱼 vs 横滨水手 - 直播11
-https://hello.ooo0ooo.top/live/4555269.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日职联 名古屋鲸鱼 vs 横滨水手 - 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4555269.m3u8?txSecret=2e80b426f5c342c16d09eeff9ef41161&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日足联 岩手盛冈仙鹤 vs 横滨体育 - 直播24
-https://hello.ooo0ooo.top/live/4624961.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日足联 岩手盛冈仙鹤 vs 横滨体育 - 原声26
-https://pul-tenm.gkykp.com/live/sd-1-4624961.m3u8?txSecret=b9ac554ef9b834e43a7b63fed81306cf&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",日足联 沼津青蓝 vs 天籁枚方 - 直播46
-https://hello.ooo0ooo.top/live/4624963.m3u8
-#EXTINF:-1 group-title="HS体育赛事",日足联 沼津青蓝 vs 天籁枚方 - 原声38
-https://pul-tenm.gkykp.com/live/sd-1-4624963.m3u8?txSecret=5336bb67bef7456847ee5c6e87dc9e7f&txTime=6ADEE121
-#EXTINF:-1 group-title="HS体育赛事",澳NBL 凯恩斯太攀蛇 vs 新西兰破坏者 - 直播54
-https://hello.ooo0ooo.top/live/3925981.m3u8
-#EXTINF:-1 group-title="HS体育赛事",澳NBL 凯恩斯太攀蛇 vs 新西兰破坏者 - 原声32
-https://pul-tenm.gkykp.com/live/hd-en-2-3925981.m3u8?txSecret=6adc2c5c03b2f56ccc47f8d4e73cde0b&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",澳女篮 汤斯维尔火力女篮 vs 悉尼火焰女篮 - 直播53
-https://hello.ooo0ooo.top/live/3925767.m3u8
-#EXTINF:-1 group-title="HS体育赛事",澳女篮 汤斯维尔火力女篮 vs 悉尼火焰女篮 - 原声33
-https://pul-tenm.gkykp.com/live/sd-2-3925767.m3u8?txSecret=6be7b42ade21c35f2fbcefa11ce18aa1&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",澳超 悉尼FC vs 阿德莱德联 - 直播2
-https://hello.ooo0ooo.top/live/4590454.m3u8
-#EXTINF:-1 group-title="HS体育赛事",澳超 悉尼FC vs 阿德莱德联 - 原声3
-https://pul-tenm.gkykp.com/live/hd-en-1-4590454.m3u8?txSecret=84d6e93123ea7dc32defe2303d98d653&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 城南FC vs 水原三星 - 直播40
-https://hello.ooo0ooo.top/live/4481230.m3u8
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 城南FC vs 水原三星 - 原声35
-https://pul-tenm.gkykp.com/live/sd-1-4481230.m3u8?txSecret=c069c8aa067aa6f60353645e6d3441f8&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 水原FC vs 忠南牙山 - 直播37
-https://hello.ooo0ooo.top/live/4481089.m3u8
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 水原FC vs 忠南牙山 - 原声27
-https://pul-tenm.gkykp.com/live/sd-1-4481089.m3u8?txSecret=8181b38dbc81090da3e53eaee4c3ee83&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 釜山偶像 vs 庆南FC - 直播39
-https://hello.ooo0ooo.top/live/4481229.m3u8
-#EXTINF:-1 group-title="HS体育赛事",韩K2联 釜山偶像 vs 庆南FC - 原声30
-https://pul-tenm.gkykp.com/live/sd-1-4481229.m3u8?txSecret=e8b7dd1944eb6350a555a3de4d57c33a&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",韩篮甲 安养赤红火箭 vs 原州东浦新世代 - 直播49
-https://hello.ooo0ooo.top/live/3933467.m3u8
-#EXTINF:-1 group-title="HS体育赛事",韩篮甲 安养赤红火箭 vs 原州东浦新世代 - 原声40
-https://pul-tenm.gkykp.com/live/sd-2-3933467.m3u8?txSecret=0b0620e6abfed95f085b3286fe509828&txTime=6ADEE211
-#EXTINF:-1 group-title="HS体育赛事",韩篮甲 首尔SK骑士 vs 水原KT音速弹 - 直播62
-https://hello.ooo0ooo.top/live/3933531.m3u8
-#EXTINF:-1 group-title="HS体育赛事",韩篮甲 首尔SK骑士 vs 水原KT音速弹 - 原声41
-https://pul-tenm.gkykp.com/live/hd-en-2-3933531.m3u8?txSecret=1db79f83a7d29bce8031887b331a9996&txTime=6ADEE211
+https://pul-tenm.gkykp.com/live/sd-2-3935395.m3u8?txSecret=c45d133785c1f1d7dcc4c89dc091ad90&txTime=6ADEF189
+#EXTINF:-1 group-title="HS体育赛事",日职乙 湘南丽海 vs 枥木市FC - 直播4
+https://hello.ooo0ooo.top/live/4555723.m3u8
+#EXTINF:-1 group-title="HS体育赛事",日职乙 湘南丽海 vs 枥木市FC - 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4555723.m3u8?txSecret=8306b90b6cd763d4de6087ec35d926c7&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",白俄超 捷尔任斯克兵工厂 vs 第聂伯 - 直播6
+https://hello.ooo0ooo.top/live/4502951.m3u8
+#EXTINF:-1 group-title="HS体育赛事",白俄超 捷尔任斯克兵工厂 vs 第聂伯 - 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4502951.m3u8?txSecret=c511e50bf339e434d0cbf1a27dc1fd4e&txTime=6ADF2608
+#EXTINF:-1 group-title="HS体育赛事",菲州长杯 公路勇士 vs 凤凰燃料大师 - 直播63
+https://hello.ooo0ooo.top/live/3948547.m3u8
+#EXTINF:-1 group-title="HS体育赛事",菲州长杯 公路勇士 vs 凤凰燃料大师 - 原声9
+https://pul-tenm.gkykp.com/live/sd-2-3948547.m3u8?txSecret=ea6b8576ca0b8b75d2fbaefa15c84294&txTime=6ADF2608
