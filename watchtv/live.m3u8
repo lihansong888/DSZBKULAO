@@ -1,7 +1,67 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS体育赛事",印班超 班加罗尔B队 vs 斯图拉德 - 直播2
-https://hello.ooo0ooo.top/live/4660711.m3u8
-#EXTINF:-1 group-title="HS体育赛事",印班超 班加罗尔B队 vs 斯图拉德 - 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4660711.m3u8?txSecret=d7818770e29e648fe8ea674c782f4fde&txTime=6AE2E4A0
-#EXTINF:-1 group-title="HS体育赛事",蒙古超 阿姆塔特FC vs 克布多 - 直播1
-https://hello.ooo0ooo.top/live/4661290.m3u8
+#EXTINF:-1 group-title="HS体育赛事",CBA 深圳 vs 山西 - 直播30
+https://hello.ooo0ooo.top/live/3941115.m3u8
+#EXTINF:-1 group-title="HS体育赛事",CBA 深圳 vs 山西 - 原声31
+https://pul-tenm.gkykp.com/live/hd-zh-2-3941115.m3u8?txSecret=dfd09bcaec7c9bafe3de9e5900a99de4&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",亚冠二级 万隆 vs 墨尔本胜利 - 直播21
+https://hello.ooo0ooo.top/live/4621359.m3u8
+#EXTINF:-1 group-title="HS体育赛事",亚冠二级 万隆 vs 墨尔本胜利 - 原声38
+https://pul-tenm.gkykp.com/live/hd-en-1-4621359.m3u8?txSecret=9c7a3183092b6e675c8ca9e23d270233&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",亚冠二级 越电信体工 vs FC首尔 - 直播4
+https://hello.ooo0ooo.top/live/4621355.m3u8
+#EXTINF:-1 group-title="HS体育赛事",亚冠二级 越电信体工 vs FC首尔 - 原声37
+https://pul-tenm.gkykp.com/live/hd-en-1-4621355.m3u8?txSecret=22cf561fd544b6b41255944c49d4b78a&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",俄杯 奥伦堡 vs 莫斯科罗迪纳 - 直播33
+https://hello.ooo0ooo.top/live/4566108.m3u8
+#EXTINF:-1 group-title="HS体育赛事",俄杯 奥伦堡 vs 莫斯科罗迪纳 - 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4566108.m3u8?txSecret=f8aa8b2b6f9a37454496da5c79e5118e&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",土杯 费迪耶斯堡 vs 埃于普体育 - 直播47
+https://hello.ooo0ooo.top/live/4656977.m3u8
+#EXTINF:-1 group-title="HS体育赛事",土杯 费迪耶斯堡 vs 埃于普体育 - 原声8
+https://pul-tenm.gkykp.com/live/sd-1-4656977.m3u8?txSecret=7d9609012747efe0615ea6bc4672bf4e&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",塞尔杯 塞门德里亚1924 vs 托波拉 - 直播45
+https://hello.ooo0ooo.top/live/4658526.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塞尔杯 格拉菲卡 vs IMT新贝尔格莱德 - 直播44
+https://hello.ooo0ooo.top/live/4658521.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塞尔杯 格拉菲卡 vs IMT新贝尔格莱德 - 原声34
+https://pul-tenm.gkykp.com/live/sd-1-4658521.m3u8?txSecret=de2e14da9a2f8c8ac2a0314c97fe233f&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",塞尔杯 维尔沙克 vs OFK贝尔格莱德 - 直播46
+https://hello.ooo0ooo.top/live/4658522.m3u8
+#EXTINF:-1 group-title="HS体育赛事",塞尔杯 维尔沙克 vs OFK贝尔格莱德 - 原声36
+https://pul-tenm.gkykp.com/live/sd-1-4658522.m3u8?txSecret=e1851ec714c89dc5c0a35e7be7a059c6&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",希腊杯 赫里苏波利 vs 卡拉马塔 - 直播48
+https://hello.ooo0ooo.top/live/4631014.m3u8
+#EXTINF:-1 group-title="HS体育赛事",希腊杯 赫里苏波利 vs 卡拉马塔 - 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4631014.m3u8?txSecret=b3780c183262b06300bd537aecb8152c&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",希腊杯 马尔科 vs 奥林匹亚科斯 - 直播49
+https://hello.ooo0ooo.top/live/4631016.m3u8
+#EXTINF:-1 group-title="HS体育赛事",希腊杯 马尔科 vs 奥林匹亚科斯 - 原声16
+https://pul-tenm.gkykp.com/live/sd-1-4631016.m3u8?txSecret=fb975e62df1345d71e1c01f15209f8d2&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",捷克杯 伊赫拉瓦 vs 比尔森 - 直播50
+https://hello.ooo0ooo.top/live/4631275.m3u8
+#EXTINF:-1 group-title="HS体育赛事",捷克杯 伊赫拉瓦 vs 比尔森 - 原声17
+https://pul-tenm.gkykp.com/live/sd-1-4631275.m3u8?txSecret=4c489e172605a12d4d5f8d4575bd9431&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",捷克杯 博莱斯拉夫 vs 波希米亚1905 - 直播52
+https://hello.ooo0ooo.top/live/4661798.m3u8
+#EXTINF:-1 group-title="HS体育赛事",捷克杯 博莱斯拉夫 vs 波希米亚1905 - 原声20
+https://pul-tenm.gkykp.com/live/sd-1-4661798.m3u8?txSecret=77d7e352902713db8518f21fbf5ce41a&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",欧俱杯 巴库石油工人 vs 奥雷迪 - 直播31
+https://hello.ooo0ooo.top/live/3944874.m3u8
+#EXTINF:-1 group-title="HS体育赛事",欧俱杯 巴库石油工人 vs 奥雷迪 - 原声12
+https://pul-tenm.gkykp.com/live/sd-2-3944874.m3u8?txSecret=d39026e144e599b2d33de15057e3f1d1&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",沙特甲 积尼达 vs 达马克 - 直播36
+https://hello.ooo0ooo.top/live/4602038.m3u8
+#EXTINF:-1 group-title="HS体育赛事",沙特甲 积尼达 vs 达马克 - 原声39
+https://pul-tenm.gkykp.com/live/sd-1-4602038.m3u8?txSecret=cb66413c2f8a0b3351bb2e49ee6ac59a&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",白俄超 伊斯洛奇 vs ML麦克斯林 - 直播32
+https://hello.ooo0ooo.top/live/4502882.m3u8
+#EXTINF:-1 group-title="HS体育赛事",白俄超 伊斯洛奇 vs ML麦克斯林 - 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4502882.m3u8?txSecret=9a7f2e046c531040e6a15767217646a3&txTime=6AE34A58
+#EXTINF:-1 group-title="HS体育赛事",罗杯 科罗纳布拉索夫 vs 阿格斯 - 直播38
+https://hello.ooo0ooo.top/live/4630986.m3u8
+#EXTINF:-1 group-title="HS体育赛事",罗杯 科罗纳布拉索夫 vs 阿格斯 - 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4630986.m3u8?txSecret=f8e18340c1ed8addfa031010c745347f&txTime=6AE348F1
+#EXTINF:-1 group-title="HS体育赛事",菲州长杯 凤凰燃料大师 vs 公路勇士 - 直播29
+https://hello.ooo0ooo.top/live/3948552.m3u8
+#EXTINF:-1 group-title="HS体育赛事",菲州长杯 凤凰燃料大师 vs 公路勇士 - 原声5
+https://pul-tenm.gkykp.com/live/sd-2-3948552.m3u8?txSecret=cec92a6353f585203225d0a166183417&txTime=6AE34A58
